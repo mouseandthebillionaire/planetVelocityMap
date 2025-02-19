@@ -86,8 +86,6 @@ Grounded theory was initially developed by Barney Glaser and Anselm Strauss for 
 
 Once the prototypes have been tested by the general public, this phase of the research may cycle back into the internal iterative process, where I would continue to refine this design by incorporating the feedback given and improving the overall concept. Alternatively, if the design is deemed successful (or if there is not enough data that leads to meaningful changes) a new cycle will begin with new ideation, refining, and prototyping phases.
 
-  
-
 Summary
 
 In summary, my methodology for each iteration of this research will go through a series of phases. Firstly through rapid prototyping on an individual level, where my intuition as a designer will help to refine an initially large amount of ideas to only those with the most potential. This design through research practice will facilitate  knowledge creations both about the problem and these possible solutions. Secondly, I will leverage observations and conversations with other designers to test these designs, quickly implementing what is learned into a final playable prototype. Lastly, these prototypes will be shared with the general public, and surveys will be administered to see if the ideas presented create the reflective state that is intended. Throughout all of these phases, I will be using the method for design materialization to document, track, and analyze both my individual designs and the overall process to see what new knowledge can be gained and what new solutions might arise.
@@ -97,6 +95,28 @@ In summary, my methodology for each iteration of this research will go through a
 ## Timetable
 
 ## Potential Chapter Breakdown
+
+My initial idea here is to have each of the main chapters focus on an aesthetic of contemplative play. Through each of these lenses, I will look at a specific artistic practice from outside the realm of games and then apply the lessons learned to a designed play experience. 
+
+- Part 1
+	- Introduction
+	- Research Summary
+	- Methodology
+	- Contemplation, Reflection and Art
+	
+- Part 2: Aesthetics in Contemplative Play
+	- Space
+		- Contemplative Architecture
+		- Freedom, Agency, and the Magic Circle
+	- Time
+		- Ambient Media
+		- Ambivalence and Flow
+	- Physicality and Performance
+		- Soundwalking
+		- Interactivity, Rules, and Experience
+	- Materiality
+		- Performative Objects
+		- Immersion and Intentionality
 
 ## References
 
