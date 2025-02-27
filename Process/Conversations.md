@@ -21,3 +21,7 @@ Moving your comments from the [original issues location](https://github.com/mous
 So onto the task at hand:
 
 Yes, I will work on fleshing out the chapter breakdowns and go more in-depth about what will be happening in each of those sections. It's going to be fun to think about.
+
+## PB: 2025.02.27
+
+Yeah it may suffice? At least for early days it's not really about line-level commentary anyway, and quoting would probably work fine for a bunch of stuff. We shall see if it gets unweildy. I am only writing this to prove I can sync commit and push to this repo. I can.
