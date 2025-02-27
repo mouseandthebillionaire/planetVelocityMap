@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "0063126b8cdd98e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13b1183c8447e3df",
+  "active": "0063126b8cdd98e2",
   "lastOpenFiles": [
     "Journal.md",
     "Proposal/README.md",
