@@ -104,7 +104,7 @@ My initial idea here is to have each of the main chapters focus on an aesthetic 
 	- Methodology
 	- Contemplation, Reflection and Art
 	
-- Part 2: Aesthetics in Contemplative Play
+- ==Part 2: Aesthetics in Contemplative Play==<!--Testing the Note plugin to see how it works for comments. Sfine?-->
 	- Space
 		- Contemplative Architecture
 		- Freedom, Agency, and the Magic Circle
