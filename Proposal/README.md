@@ -106,17 +106,20 @@ My initial idea here is to have each of the main chapters focus on an aesthetic 
 	
 - ==Part 2: Aesthetics in Contemplative Play==<!--Testing the Note plugin to see how it works for comments. Sfine?-->
 	- Space
-		- Contemplative Architecture
-		- Freedom, Agency, and the Magic Circle
-	- Time
+		- Space is a core aesthetic to the play experience. The concept of the magic circle in particular, sets to explain the physical, and mental demarcation between "the real" world and the imaginatively playful world. It is this established structure that gives the player agency to engage in playful acts, choosing one possible action over another and reflecting on how those actions contribute to the imagined world. 
+	    - Contemplative Architecture is similar in that the creation and consecration of a space can engender different perspectives than the ones a person came in with. Changes in sound, light, and material imbue the space with a meaning in contrast to the outside world. Huizinga's discussion of the "play-festival-rite" is of particular interest here, as it provides a direct link between play and contemplative (even sacred) spaces.
+		- Focusing on this concept of the space in which play happens (i.e the magic circle) and examples from Contemplative Architecture, how can we create playfully contemplative experiences?
+	- Physicality and Performance
+	  	- Much of play is performative. A player acts out scenarios. They move their body in a coordinated effort with other players or the playful system. Play can even be designed so that the act of playing is engaging from those outside of the playspace. Professional sports is a clear example of this, but Let's Plays, E-Sports, and arcade experiences (kids gathered around a Street Fighter cabinet in the 90s or DDR machines in the early aughts) also point to the possibilities of "performing" play.
+		- Soundwalking is an excellent genre precedent to think about how not only our physical bodies inhabit an experience, but also how the physical world around us allows for performance. Artists like Hildegard Westerkamp built on the active listening practices of Pauline Oliveras and John Cage to invite listeners to playfully explore acoustic space. Tapping on bridges, shouting in tunnels, banging on cans: these playful acts require the listener to become performer in order to discover something new about the world around them.
+		- Thinking about the player as performer and how soundwalks (and other interactive artworks) have used the movement of participants to create meaning, what new contemplative and playful experiences can we create?
+	- Materiality
+	  	- The materiality of the objects in play has a profound effect on the playful experience. Not only do textures, shapes, and other physical characteristic communicate essential aspects of these items (which Fullerton dubs "resources"), but the very introduction of external elements themselves communicates something about the playful experience. A verbal bang, pointed finger, plastic cap-gun, and hyper-realistic 3D modeled firearm say something of the values at play in the games that include them, but the presence of weaponry at all as a "resource" communicates even more.
+	  	- The Performative Objects of Kristina Niedderer fit well into this understanding, as they strategically explore the material and functional aspects of objects in order to provoke what she calls "mindful interactions." Their materiality (often at odds with rather than in service to their functionality) initiates a more reflective stance from the user within the context of their intended use. Yoko Ono's "Play it by Heart" is another clear example of how the materiality of an object can be at service for both play and contemplation.
+	  	- "Performative resources" seems then to be a fertile space for exploration (albeit not a great name). Within this understanding, a designer would create material objects for play in which their materiality informs both the playful act and the associated contemplative experience.
+	  - Time (To come. But also... necessary?)
 		- Ambient Media
 		- Ambivalence and Flow
-	- Physicality and Performance
-		- Soundwalking
-		- Interactivity, Rules, and Experience
-	- Materiality
-		- Performative Objects
-		- Immersion and Intentionality
 
 ## References
 
