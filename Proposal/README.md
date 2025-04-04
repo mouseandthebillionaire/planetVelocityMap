@@ -12,21 +12,15 @@ _notes: ~9000 words (without references)_
 
 ## Methodology
 
-_(initial Methodology Chapter from DART601)_
+This research relies on game experiments to explore the possibilities in manipulating playful aesthetics towards contemplative ends. These playful experiments will be tangibile outputs to test ideas found in the overlap between playful aesthetics and various contemplative design, with knowledge arising both from the active building of these experiments as well as in conversation with other designers. Each of these prototypes will go through a series of stages. The overall trajectory for this exploration will resemble the classic design process, with stages of divergence and convergence throughout. As in the traditional interactive design process, each stage of the process is evaluated in stasis by me and in conversation with design peers. These conversations will lead to new insights and feed into future iterations of the overall concepts.
 
-This research seeks to build a series of experiments, testing out a variety of theories and hypotheses on how the design of sound can affect game players in reflective ways. The knowledge created will arise both from the active building of these experiments, as well as in conversation with other designers and the general public. Each of these prototypes will go through a series of stages. My impression of the overall trajectory for this exploration resembles a series of concentric circles with stage one being me as the designer in the middle iterating on a specific idea, stage two gaining feedback from other practitioners, and stage three introducing the prototype to a wider public for more formal user-testing. This thinking is grounded in the methods a traditional interaction designer would employ to explore a design solution. 
+Throughout this exploration, I will initially use an internal iterative design process as a basis for which to pursue and evaluate my designs. This is in alignment with ideas stemming from traditional iterative design practice where designers rapidly develop and test many ideas on an individual level, discarding anything that obviously doesn’t work, and refining all of the ideas down to a few testable prototypes. This method also relies on the design through research practices as proposed by Frayling and Redstrom, in which knowledge is gained through the practice of design. 
 
-Throughout this exploration, I will initially use an internal iterative design process as a basis for which to pursue and evaluate my designs. This is in alignment with ideas stemming from traditional iterative design practice where designers rapidly develop and test many ideas on an individual level, discarding anything that obviously doesn’t work, and refining all of the ideas down to a few testable prototypes. This method also relies on the design through research practices as proposed by Frayling and Redstrom, in which knowledge is gained through the practice of design.  
+Additionally, I will gain knowledge about my solution through observation and conversations with other designers. Sharing work with other designers who have deep experience in a discipline is a great way to catch these early mistaken assumptions that I might be making about my audience, goals, and proposed solutions.
 
-For the second stage, I will gain knowledge about my solution through observation and conversations with other designers. Sharing work with other designers who have deep experience in a discipline is a great way to catch these early mistaken assumptions that I might be making about my audience, goals, and proposed solutions.
+(Question 4PB: do I need to have this "intro" and then "in-depth" sections, or should I just wrap it all into a larger narrative on the method?)
 
-The final stage opens up the design to the widest possible audience. By publishing the games online via itch.io, I will be able to share them broadly and receive and analyze feedback from playtest surveys posted on the web pages for the games. 
-
-This general method will be completed for each of the exploratory prototypes that I build throughout my research. Below I will go into more detail about how these stages will function for each individual prototype cycle.
-
-  
-
-Foundations: Research Through Design, Design Practice, and Practice-Based Research
+### Foundations: Research Through Design, Design Practice, and Practice-Based Research
 
 In his paper for the first issue of Research in Art and Design, Christopher Frayling introduced his ideas for the relationship between research and design. He distinguished between research into art and design (where the research is historical, cultural or theoretical), research through art and design (where the research is into the processes and tools for future design methodologies), and research for art and design (where the end product is an artifact). In the years following, many researchers adapted these ideas, and the area that Frayling labeled as research for art and design has become more widely understood as research through design. 
 
@@ -37,12 +31,8 @@ The specific framework that I employ to understand how my research and designs a
 I believe that the iterative design process is uniquely suited and positioned to benefit from this concept of sequencing. As a designer, it is fundamental that you document and reflect on your designs and how they are being perceived by a given audience. In this way, you are in constant conversation with the design, testing its validity, and gaining knowledge in the process.
 
 This understanding of the benefits of the design process is echoed in the concepts of practice-based research. Linda Candy, in the Routledge International Handbook of Practice-Based Research, defines practice-based research as “a principled approach to research by means of practice, in which the research and the practice operate as interdependent and complementary processes leading to new and original forms of knowledge.” An important concept here is that it is through the creations of these designed artifacts that the researcher is able to test and gain knowledge about the world.
-
   
-  
-  
-
-Internal Iterative Game Design Process and MDM
+### Internal Iterative Game Design Process and MDM
 
 The initial stages for this research will rely on my practice as a game and sound designer. It is here where the most radical idea generation, design creation, reflection, and refinement will happen.
 
@@ -54,9 +44,7 @@ Once the design process moves into the digital space, I use the game development
 
 Through all of these phases, I implement the Method for Design Materialization (MDM) first presented by Rilla Khaled, Jonathan Lessard, and Pippin Barr in “Documenting Trajectories in Design Space: a Methodology for Applied Game Design Research.” In this method, the small decisions that a designer makes during the course of their process are documented using the version control system GitHub.  Any time that the designer uploads a commit, a detailed message is written commenting on the particular design decision, motivations, thoughts, and any future plans at that specific moment in time. This then becomes part of the overall narrative not only of a design’s trajectory, but also the designer’s unique thought process. Khaled et al. state that the “history of commits over time can give an understanding of the overall design space and how it has been traversed: its pressure points, its branching points, where decisions have been made, and where possible lines of inquiry have been pruned.” The most important thing about this is that the large amount of qualitative data produced makes it possible to use methods of analysis derived from grounded theory to organize, analyze, and develop theories about the information that is generated. From this analysis, patterns can emerge to aid in reflection on the solutions and suggest new possible directions for exploration.
 
-  
-
-Observation and Designer Conversations
+### Observation and Designer Conversations
 
 The end goal of the previous stage should be a playable prototype that has made it through several phases of internal testing and refinement and is ready to be shown to others. Generally, the first group of people to see this work are other game and/or sound designers because sharing work with others who are familiar with the intricacies and idiosyncrasies of a given design discipline is a great way to get valuable information and feedback on a design. Experienced practitioners can often more easily see the failings of a design and give more concrete solutions for how those designs can be improved.
 
@@ -68,31 +56,19 @@ To help facilitate these conversations and to set a common language for the dial
 
 It should be noted that this entire phase of the process will remain under the framework of the MDM. All of the generated feedback will be documented and added to the online GitHub repository. This way it can be included in the overall analysis of the design research. This synthesized information will then be applied to further iterations on both this particular design solution and future explorations.
 
-  
-
-Playtest Surveys
-
-The final phase for each prototype will be to introduce it to the widest audience possible. These prototypes will be the most complete, having been iterated upon both internally and with feedback from outside critics. This stage is also the most critical, as it will test the theories and solutions that I have developed with actual users.
-
-In the “External Evaluation” chapter of their book Iterate, Colleen Macklin and John Sharp interview Baratunde Thurston, a comedian from Washington D.C. about his process of refining a comedy routine by presenting it to an audience. Thurston stresses how important it is to test your ideas in public, noting that “the response from his audience comes back to him as a kind of ‘echolocation,’” where “reviewing the ‘data’ is essential to reveal where ideas are clear and where they need work.” 
-
-For my research, it is in this phase in which the most user-centered refinement will occur. Feedback from actual users will ensure that my ideas and implementations are as clear and accurate as possible. 
-
-To deploy these prototypes, I will publish them to the online game repository, itch.io (or, itch). Itch was established by Leaf Corcoran in 2013 as a way for independent game designers to host their games, and it makes it possible to share a game with a large number of possible players. Additionally, I will use Unity’s ability to build the prototype games as web executables (via WebGL/HTML5) so that the games will be playable in the browser, thus lowering the barrier to entry even further. 
-
-On the page for each of these prototypes, I will have a link to an online survey that players can fill out in order to give feedback. This data will then be evaluated using grounded theory methods to code, collate, and gain additional insight. 
-
-Grounded theory was initially developed by Barney Glaser and Anselm Strauss for their research on dying hospital patients and later detailed in their 1967 book The Discovery of Grounded Theory. The purpose of grounded theory is to legitimize qualitative research, and it is from this premise that their methodology arises. In grounded theory, researchers begin with a large amount of qualitative data, identify key data points, group those data points together, and build theories through those relationships. I hope to gain insight in my designs through these methods which will be derived from the survey data. 
-
-Once the prototypes have been tested by the general public, this phase of the research may cycle back into the internal iterative process, where I would continue to refine this design by incorporating the feedback given and improving the overall concept. Alternatively, if the design is deemed successful (or if there is not enough data that leads to meaningful changes) a new cycle will begin with new ideation, refining, and prototyping phases.
-
-Summary
+### Summary
 
 In summary, my methodology for each iteration of this research will go through a series of phases. Firstly through rapid prototyping on an individual level, where my intuition as a designer will help to refine an initially large amount of ideas to only those with the most potential. This design through research practice will facilitate  knowledge creations both about the problem and these possible solutions. Secondly, I will leverage observations and conversations with other designers to test these designs, quickly implementing what is learned into a final playable prototype. Lastly, these prototypes will be shared with the general public, and surveys will be administered to see if the ideas presented create the reflective state that is intended. Throughout all of these phases, I will be using the method for design materialization to document, track, and analyze both my individual designs and the overall process to see what new knowledge can be gained and what new solutions might arise.
 
-**
-
 ## Timetable
+
+In general, I propose to focus on each of the four main aesthetic-topic areas for a set duration. During this focused time, I will read literature and experience first-hand the art and design experiences in this domain, responding to the material both in writing/reflecting and creating playful explorative prototypes. Once the initial explorative stages have been complete, I will spend the remaining time on the synthesis and writing of the thesis paper.
+
+* Space Exploration (3 Months)
+* Performance Exploration (3 Months)
+* Materiality Exploration (3 Months)
+* Time Exploration (3 Months)
+* Synthesis and Thesis Writing (6 Months)
 
 ## Potential Chapter Breakdown
 
@@ -110,13 +86,13 @@ My initial idea here is to have each of the main chapters focus on an aesthetic 
 	    - Contemplative Architecture is similar in that the creation and consecration of a space can engender different perspectives than the ones a person came in with. Changes in sound, light, and material imbue the space with a meaning in contrast to the outside world. Huizinga's discussion of the "play-festival-rite" is of particular interest here, as it provides a direct link between play and contemplative (even sacred) spaces.
 		- Focusing on this concept of the space in which play happens (i.e the magic circle) and examples from Contemplative Architecture, how can we create playfully contemplative experiences?
 	- Physicality and Performance
-	  	- Much of play is performative. A player acts out scenarios. They move their body in a coordinated effort with other players or the playful system. Play can even be designed so that the act of playing is engaging from those outside of the playspace. Professional sports is a clear example of this, but Let's Plays, E-Sports, and arcade experiences (kids gathered around a Street Fighter cabinet in the 90s or DDR machines in the early aughts) also point to the possibilities of "performing" play.
+		  * Much of play is performative. A player acts out scenarios. They move their body in a coordinated effort with other players or the playful system. Play can even be designed so that the act of playing is engaging from those outside of the playspace. Professional sports is a clear example of this, but Let's Plays, E-Sports, and arcade experiences (kids gathered around a Street Fighter cabinet in the 90s or DDR machines in the early aughts) also point to the possibilities of "performing" play.
 		- Soundwalking is an excellent genre precedent to think about how not only our physical bodies inhabit an experience, but also how the physical world around us allows for performance. Artists like Hildegard Westerkamp built on the active listening practices of Pauline Oliveras and John Cage to invite listeners to playfully explore acoustic space. Tapping on bridges, shouting in tunnels, banging on cans: these playful acts require the listener to become performer in order to discover something new about the world around them.
 		- Thinking about the player as performer and how soundwalks (and other interactive artworks) have used the movement of participants to create meaning, what new contemplative and playful experiences can we create?
 	- Materiality
-	  	- The materiality of the objects in play has a profound effect on the playful experience. Not only do textures, shapes, and other physical characteristic communicate essential aspects of these items (which Fullerton dubs "resources"), but the very introduction of external elements themselves communicates something about the playful experience. A verbal bang, pointed finger, plastic cap-gun, and hyper-realistic 3D modeled firearm say something of the values at play in the games that include them, but the presence of weaponry at all as a "resource" communicates even more.
-	  	- The Performative Objects of Kristina Niedderer fit well into this understanding, as they strategically explore the material and functional aspects of objects in order to provoke what she calls "mindful interactions." Their materiality (often at odds with rather than in service to their functionality) initiates a more reflective stance from the user within the context of their intended use. Yoko Ono's "Play it by Heart" is another clear example of how the materiality of an object can be at service for both play and contemplation.
-	  	- "Performative resources" seems then to be a fertile space for exploration (albeit not a great name). Within this understanding, a designer would create material objects for play in which their materiality informs both the playful act and the associated contemplative experience.
+		  	* The materiality of the objects in play has a profound effect on the playful experience. Not only do textures, shapes, and other physical characteristic communicate essential aspects of these items (which Fullerton dubs "resources"), but the very introduction of external elements themselves communicates something about the playful experience. A verbal bang, pointed finger, plastic cap-gun, and hyper-realistic 3D modeled firearm say something of the values at play in the games that include them, but the presence of weaponry at all as a "resource" communicates even more.
+		  	* The Performative Objects of Kristina Niedderer fit well into this understanding, as they strategically explore the material and functional aspects of objects in order to provoke what she calls "mindful interactions." Their materiality (often at odds with rather than in service to their functionality) initiates a more reflective stance from the user within the context of their intended use. Yoko Ono's "Play it by Heart" is another clear example of how the materiality of an object can be at service for both play and contemplation.
+		  	* "Performative resources" seems then to be a fertile space for exploration (albeit not a great name). Within this understanding, a designer would create material objects for play in which their materiality informs both the playful act and the associated contemplative experience.
 	  - Time and Attention
 		- In _Das Spiel. Theorien des Spiels_, Hans Scheuerl argues that "play is always a 'playing between'" various characteristics like seriousness and pleasure, rules and chance, focused effort and ease. This concept of 'ambivalence,' in conjunction with Csikszentmihalyi's 'flow' helps to explain the playful state. The oscillation between the states is where play exists. Salen and Zimmerman use the example of the 'play' in a steering wheel.
 		- Ambient Media aso relies on ths tension between something that can demand focused attention but also exist entirely in the background. Eno imagined his ambient music as the soundscape to an environment, ever present,  always playing, with the listener able to tune-in or out as they pleased. Games like Oreilly's _Mountain_ are examples of how 'ambient games' might function, in which the player's attention can traverse this ambivalent space at will.
