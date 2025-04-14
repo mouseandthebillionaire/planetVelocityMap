@@ -47,3 +47,28 @@ Yes yes yes!
 A weekly meeting sounds great, and I’m down for lunch (but happy to move to a less “pleasant” format if that better suits the desired outcome… Haha) I will shoot to have something for you to read by Wed/Thurs, and will plan on keeping on that schedule from here on out.
 
 Will check out etherpad today and see what I can do!
+
+## PB: 2025.04.14 (Me-mail. Well, I'm writing this in VS Code...)
+
+Hey I have a todo item for today that says
+
+> 🤔 Think about aha for Matt
+
+So let me see here. We were talking about the word "contemplation" and specifically its temporality (man I sound smart right now). The "thing" being that contemplation is often thought of as a durational thing - it's not sudden, can't happen all at once. And we remarked on how nice that definition you had found of "holding a thought continuously before the mind" or something... it was better than that.
+
+And as I look up definitions casually now they're all about time. There's also that phrase "lost" in contemplation which is intriguing because it relates to "immersion" possibly? That may be another thread.
+
+Anyway in our conversation we were realizing that you're interested in a whole *range* of durational thinkings (not as smart... we're losing it...)? That you were as(?) interested in smaller "aha" moments. And I was agreeing that I'm interested in those moments in my own work as well - stimulating not some deep passage of thought and reflection but bumping up against somebody's brain for a moment.
+
+And we were also talking about the idea of these things as having a kind of potential "affordance" for... contemplation? At a later time? That the thing itself isn't *contemplative* but that it may possess something that can be contemplated as a potentially completely separate activity? Or not at all...
+
+We were thus talking about "ahas" instead of contemplative things. (And in amongst all this you were also still rejecting "reflection" as kind of too didactic I think. Contemplation, when you "make" someone contemplate, probably has the same flavour tbh.)
+
+So is there a word, a fancy smart word, for "ahas"? There's "realisation", but it's so bombastic. I used to use the word "curious" in connection with my work when I was more interested in positioning myself with some sort of "brand". And so there's "curios", things that stimulated curiosity (and perhaps "relieve" it at the same time?). 
+
+And somehow the "aha" thing also kind of pushes me toward something I value in meditation practice that *isn't* locked down to the sitting still for an hour thinking nothing, thing, which is the pleasant sense of *noticing* reality more often. So "noticing" is kind of a nice term... kind of anti-immersive in a gentle way... the idea that one would *notice* what it happening?
+
+"Notices"? Hmmm. Well, no.
+
+Thoughts?
+
