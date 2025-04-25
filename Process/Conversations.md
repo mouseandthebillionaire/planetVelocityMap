@@ -60,11 +60,11 @@ And as I look up definitions casually now they're all about time. There's also t
 
 Anyway in our conversation we were realizing that you're interested in a whole *range* of durational thinkings (not as smart... we're losing it...)? That you were as(?) interested in smaller "aha" moments. And I was agreeing that I'm interested in those moments in my own work as well - stimulating not some deep passage of thought and reflection but bumping up against somebody's brain for a moment.
 
-And we were also talking about the idea of these things as having a kind of potential "affordance" for... contemplation? At a later time? That the thing itself isn't *contemplative* but that it may possess something that can be contemplated as a potentially completely separate activity? Or not at all...
+And we were also talking about the idea of these things as having a kind of potential "affordance" for... contemplation? At a later time? That the thing itself isn't *contemplative* but that it may possess something that can be contemplated as a potentially completely separate activity? Or not at all... <MB: Oliveras' 'Deep Listening' as a parallel comes to mind>
 
-We were thus talking about "ahas" instead of contemplative things. (And in amongst all this you were also still rejecting "reflection" as kind of too didactic I think. Contemplation, when you "make" someone contemplate, probably has the same flavour tbh.)
+We were thus talking about "ahas" instead of contemplative things. (And in amongst all this you were also still rejecting "reflection" as kind of too didactic I think. Contemplation, when you "make" someone contemplate, probably has the same flavour tbh.) <MB: too true. How do we talk about making something 'contemplative' vs 'making someone contemplate'? A distinction worth thinking about>
 
-So is there a word, a fancy smart word, for "ahas"? There's "realisation", but it's so bombastic. I used to use the word "curious" in connection with my work when I was more interested in positioning myself with some sort of "brand". And so there's "curios", things that stimulated curiosity (and perhaps "relieve" it at the same time?). 
+So is there a word, a fancy smart word, for "ahas"? There's "realisation", but it's so bombastic. I used to use the word "curious" in connection with my work when I was more interested in positioning myself with some sort of "brand". And so there's "curios", things that stimulated curiosity (and perhaps "relieve" it at the same time?). <MB: 'Curious Play' does have a nice feel to it>
 
 And somehow the "aha" thing also kind of pushes me toward something I value in meditation practice that *isn't* locked down to the sitting still for an hour thinking nothing, thing, which is the pleasant sense of *noticing* reality more often. So "noticing" is kind of a nice term... kind of anti-immersive in a gentle way... the idea that one would *notice* what it happening?
 
@@ -72,3 +72,14 @@ And somehow the "aha" thing also kind of pushes me toward something I value in m
 
 Thoughts?
 
+## MB: 2025.04.25 (Via Markdown)
+
+We'll talk about this today, but over the last two weeks I have reflected on (contemplated?) this matter of naming, and I wonder if it doesn't make the most sense just to stick with 'contemplation' as the thing. Those aha moments are definitely something that I care about (and design around), but is contemplation a more compact idea? There's the opportunity there to:
+
+* leverage it against Schon et al
+* use Oliveras/Cage/Merton/etc methods of slowness
+* compare it with Contemplative Architecture
+
+I think overall I was trying to get away from "contemplative" because I didn't want to focus on the idea of it being long/slow (potentially "boring"), but maybe it's something to lean in on? Leaves the aha question for something to keep in the back of the mind (and potentially work together on?)
+
+Note: All smartness has left the building
