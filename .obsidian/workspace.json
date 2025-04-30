@@ -166,12 +166,12 @@
               "title": "Outline of README"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +184,7 @@
       "note-annotations:Enable highlighting mode": false
     }
   },
-  "active": "13b1183c8447e3df",
+  "active": "84345780d007e211",
   "lastOpenFiles": [
     "Media/ph.jpg",
     "Media/themeeting.jpg",
