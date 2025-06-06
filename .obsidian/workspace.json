@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "25e4a7cfef440646",
+        "id": "0e179c81677c4342",
         "type": "tabs",
         "children": [
           {
-            "id": "b87f6897b9841e45",
+            "id": "2864ed5f43183c0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proposal/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "13b1183c8447e3df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proposal/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,24 +131,9 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "84345780d007e211",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Proposal/README.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of README"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,8 +150,9 @@
       "note-annotations:Enable highlighting mode": false
     }
   },
-  "active": "84345780d007e211",
+  "active": "adedd30d5f16c97e",
   "lastOpenFiles": [
+    "Proposal/README.md",
     "Media/ph.jpg",
     "Media/themeeting.jpg",
     "Media/lthc.jpg",
@@ -196,7 +163,6 @@
     "Media",
     "untitled folder",
     "Journal.md",
-    "Proposal/README.md",
     "Untitled",
     "README.md"
   ]
