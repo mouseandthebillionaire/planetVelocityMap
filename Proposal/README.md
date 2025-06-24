@@ -2,7 +2,12 @@
 
 _notes: ~9000 words (without references)_
 
-## Research Purpose / Questions / Objectives (Intro?)
+## Research Purpose / Questions / Objectives
+
+The general view of play in the last one-hundred years is fairly narrow. We think of it in terms of its entertainment qualities - as in video games, professional sports, and game shows. We look down on it as a non-serious activity reserved for children with their playground antics and silly role-playing. And while there have been moves forward in the realm of “serious games” and “games for change,” this understanding of play is firmly rooted in the story-telling functionality of games, alternative methods of play in the form of narrative games. I propose a counter framework of Contemplative Play, a play with the potential to more clearly show the nature of the world around us, and who we are within that world. Various artforms from literature, painting, and music, as well as design fields like architecture, industrial design, and interaction design can be used for these contemplative experiences. The very nature of play, however - the nimble maneuvering of people together with a system - feels particularly apt for the creation of deeper and more meaningful interactions.
+
+The objectives of this inquiry is to look through four lenses of play (players, playthings, playgrounds, and playtime) as well as taking lessons from other creative fields that engender contemplative experiences. A series of playful experiments, in conversation with this material, will help to create a deeper understanding of how play can bring about these states of contemplative reflection, and open up a discussion for the creation of more varied applications of play in our lives.
+
 
 ## Rationale (Theoretical Perspective?)
 
