@@ -4,9 +4,9 @@ _notes: ~9000 words (without references)_
 
 ## Research Purpose / Questions / Objectives
 
-The general view of play in the last one-hundred years is fairly narrow. We think of it in terms of its entertainment qualities - as in video games, professional sports, and game shows. We look down on it as a non-serious activity reserved for children with their playground antics and silly role-playing. (References? Take my word for it?)
+When we look at the common understanding of 'play' over the last hundred years, we see a few consistent themes. We may think of it in terms of its entertainment qualities - as in video games, professional sports, and game shows. We may look down on it as a non-serious activity reserved for children with their playground antics and silly role-playing. Even the first serious researchers of play softened their language on the importance of play, with Huizinga famously claiming that play was "not serious" and "no profit can be gained by it," and Roger Caillois similarly stating that it was 'unproductive.' It is as if these early sociologists were downplaying the impact of play, thinking perhaps that to even study play was an embarrassment. 
 
-(Write - but possibly not necessary/helpful) Meanwhile, there have been moves forward in the realm of “serious games” and “games for change.” However, this understanding of play is often rooted in the persuasive story-telling functionality of games or how games can present different worldviews to the player.
+At the turn of the twenty-first century, a more dedicated field of games studies arose that took games more seriously but focused on a very specific area of impact. For these researchers, games and play were meaningful primarily as a way to bring positive change to the world. there have been moves forward in the realm of “serious games” and “games for change.” However, this understanding of play is often rooted in the persuasive story-telling functionality of games or how games can present different worldviews to the player.
 
 * Jane McGonigal (dare I?)
 * Anthropy

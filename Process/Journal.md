@@ -10,6 +10,14 @@ On the structural side (and in response to the [Etherpad suggestion](Conversatio
 
 On the writing side, fleshed out the chapter breakdowns to start laying out the language (and thinking) behind what each of these is trying to say/be/do. None of them are quite there, but it's a good exercise to getting words out there and see what sticks[^1].
 
+## 07.26.25 Texts
+
+Just a quick note to mention that I have created a place for jottings/musings/reflectings on the texts that I am looking at throughout this process, which can all be found [here](Texts.md). I rather enjoyed how that worked during the [comprehensive exams](https://github.com/mouseandthebillionaire/RAGE) and want to continue leveraging MDM/github for a place of meaningful engagement with the material. It should also be noted that proactively writing down the quotes helped _immensely_ once it came time to the final writing part, and that is definitely part of the decision to include that here. Still a small internal debate on whether I will call this 'texts' or 'related work' like I did during the comprehensive exams, which _might_ change the way that I approach the material but might not be consequential?
+
+A second note that I have turned on the dictation feature on my desktop in order to get some of these musings down a little easier. This also helps a lot in dictating the quotes that I find in the texts, and in general I think it's going to be very convenient to to have this running in that way.
+
+Side note: Four months and only my second process journal? Not great! Definitely a lot of thinking happening in other channels (Proposal, Conversations, IRL) but need to get more of the thoughts down here. 
+
 ## Notes: 
 [^1]:Already the section on "Time" feels less defensible as being tied to Ambient Media, but it's also probable that I'm just too tired to give it the attention it deserves. Don't abandon it yet!
 
