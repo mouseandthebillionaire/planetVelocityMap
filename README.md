@@ -1,5 +1,9 @@
 # Planet Velocity Map
 
+(Contemplative Play)
+
 _An MDM Thesis_
 
-[Proposal](Proposal/)
+* [Process Journal](Process/Journal.md)
+* [Proposal](Proposal/)
+* [Related Work](Texts.md)
