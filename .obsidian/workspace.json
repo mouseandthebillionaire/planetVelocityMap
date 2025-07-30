@@ -11,10 +11,14 @@
             "id": "2864ed5f43183c0c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Proposal/README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -131,6 +135,21 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "b5092840f3cd3292",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Proposal/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
           }
         ],
         "currentTab": 2
@@ -150,7 +169,7 @@
       "note-annotations:Enable highlighting mode": false
     }
   },
-  "active": "adedd30d5f16c97e",
+  "active": "2864ed5f43183c0c",
   "lastOpenFiles": [
     "Proposal/README.md",
     "Media/ph.jpg",

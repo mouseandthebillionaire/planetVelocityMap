@@ -8,6 +8,8 @@ _"We are losing a sense for the kind of inactivity that is not an incapability, 
 
 _"'Leisure time' lacks both intensity of life and contemplation. It is a time that we kill so as not to get bored. It is not free, living time; it is dead time."_ (2)
 
+_"We owe true happiness to the useless and purposeless, to what is intentionally convoluted, what is unproductive, indirect, exuberant, superfluous, to beautiful forms and gestures that have no use and serve no purpose."_ (5)
+
 ## Kandinsky, W. "Concerning the Spiritual in Art," 1912
 
 _"emotional states clothed in natural forms (which we might referred to as _Stimmung_: mood, town or pitch"_ (15)
