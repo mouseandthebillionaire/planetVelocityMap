@@ -2,7 +2,19 @@
 
 A collection of essays, books, articles, games, music, and artworks referenced during the making/writing of this study
 
-## Han, B. "Vita Contemplativa," 2024
+## Han, B. "The Disappearance of Rituals," 2020
+
+_"Rituals are processes of embodiment and bodily performances."_ (11)
+
+_"In a culture of raging narcissism, playfulness disappears, and life loses its cheerfulness and exuberance. The culture retreats from that holy sphere of play. The compulsions of work and performance intensify the profanation of life. The holy seriousness of play gives way to the profane seriousness of work."_ (23)
+
+Much of this work deals with narcissism versus community and I'm not sure how much of that I want to talk about that. But this quote is definitely interesting and could be used. I wonder how it would be possible to talk about community within a soundwalk experience, in particular. Soundwalks in general are fairly individualistic (in that you've got headphones on, you are by yourself). I suppose it could be possible with the Echoes platform for people to do a soundwalk simultaneously, but even the organization angle makes that feel difficult (convincing multiple people to do a weird esoteric activity with you on an otherwise-pleasant afternoon...)
+
+The other option, of course, is to talk about community within an individual experience. This idea that we are batting around right now about a particular block in Manhattan could easily be about community. Thinking about the history of that space, the people who have lived there over the decades. The people that live there now. There's a lot there in which you can point to community; point to history; point to culture; point to a larger world outside of your headphones.
+
+_"Magic and enchantment – the true sources of art – disappear from culture, to be replaced by discourse."_ (24)
+
+## Han, B. "Vita Contemplativa," 2023
 
 _"We are losing a sense for the kind of inactivity that is not an incapability, not a refusal, not just the absence of activity but a capacity in itself."_ (1)
 
