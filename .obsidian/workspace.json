@@ -150,9 +150,19 @@
               "icon": "lucide-list",
               "title": "Outline of README"
             }
+          },
+          {
+            "id": "3101fd2fa5d55e47",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -165,11 +175,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "note-annotations:Enable highlighting mode": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2864ed5f43183c0c",
+  "active": "3101fd2fa5d55e47",
   "lastOpenFiles": [
     "Proposal/README.md",
     "Media/ph.jpg",

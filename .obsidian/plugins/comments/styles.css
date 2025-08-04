@@ -1,0 +1,127 @@
+h2.comments-title {
+    text-align: center
+}
+
+.comment-item-container {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid rgba(255, 255, 255, 0.2);
+    border-width: 1px;
+    display: flex;
+    flex-direction: column;
+}
+
+.comment-item {  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    border-radius: 10px;
+    transition: background-color 200ms ease-in-out;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.comment-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.comment-minimize {
+    text-align: center;
+    border: solid rgba(255, 255, 255, 0.2);
+    border-width: 1px;
+    
+    /* padding: 5px; */
+}
+
+.comment-line {
+    font-size: .8rem;
+}
+
+.comment-item-date {
+    font-size: .8rem;
+}
+
+.comment-item-text {
+    font-size: 1rem
+}
+
+.comment-children {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.comment-child-container {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    gap: 3px;
+}
+
+.comment-child {  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    transition: background-color 200ms ease-in-out;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.comment-child-separator {
+    border-top: solid rgba(255,255,255, 0.2);
+    border-width: 1px;
+    margin-bottom:5px;
+}
+
+.comment-child-date {
+    font-size: .8em;
+}
+
+.callout[data-callout="comment"] {
+    --callout-icon: lucide-message-square;
+    border-radius: 15px;
+}
+
+.theme-dark .callout[data-callout="comment"] {
+    --callout-color: 255, 255, 255;
+    border: 3px solid rgba(0, 0, 0, 0.5);
+}
+
+.theme-light .callout[data-callout="comment"] {
+    --callout-color: 0,0,0;
+    border: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+
+.theme-dark .comment-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.theme-light .comment-item:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.theme-dark .comment-child:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.theme-light .comment-child:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+@media print {
+    /* Your elements to hide */
+    .callout[data-callout="comment"] {
+        display: none !important;
+    }
+}
