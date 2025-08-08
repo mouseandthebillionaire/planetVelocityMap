@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,13 +189,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc3197f5a51c72ae",
+  "active": "2864ed5f43183c0c",
   "lastOpenFiles": [
+    "Media/bs.jpg",
     "Proposal/README.md",
     "Media/ph.jpg",
     "Media/themeeting.jpg",
     "Media/lthc.jpg",
-    "Media/bs.jpg",
     "Media/spiderman.png",
     "Media/tikatmos.jpg",
     "Media/bw.jpg",
