@@ -102,24 +102,26 @@ In general, I propose to focus on each of the four main aesthetic-topic areas fo
     * Playgrounds (May 2026 - August 2026)
     * Playtime (Sep. 2026 - Dec. 2026)
     * Synthesis, Thesis Writing, and Revisions (Jan. 2027 - Dec. 2027)
-
+%% [P: Yep, fine by me. It's potentially the case you don't need the full year at the end, but why not right, and it's strategic at some level anyway, so all good.] %%
 ## Chapter Breakdown
 
-My initial idea here is to have each of the main chapters focus on an aesthetic of contemplative play. Through each of these lenses, I will look at a specific artistic practice from outside the realm of games and then apply the lessons learned to a designed play experience. 
+My initial idea here is to have each of the main chapters focus on an aesthetic of contemplative play. Through each of these lenses, I will look at a specific artistic practice from outside the realm of games and then apply the lessons learned to a designed play experience. %% [P: Feels like this can obviously be more confident and together. Not clear you need a Part 1 and a Part 2, I think it can just be a series of chapters] %%
 
 ### Part 1
 	- Introduction
 	- Research Summary
 	- Methodology
 	- Contemplation, Reflection and Art
-	
+
+%% [P: The boring standard approach would just be Introduction, Background, Method; if you want to go down that road.] %%
 ### Part 2: Aesthetics in Contemplative Play
 
+%% [P: It's not impossible you could be pinged a bit for these bits being a little on the short end. Feels like you probably already have so much more to say and project about the area + the project(s) you want to talk about.] %%
 #### Player
 
 Much of play is performative. A player acts out scenarios. They move their body in a coordinated effort with other players or the playful system. Play can even be designed so that the act of playing is engaging from those outside of the playspace. Professional sports is a clear example of this, but Let's Plays, E-Sports, and arcade experiences (kids gathered around a Street Fighter cabinet in the 90s or DDR machines in the early aughts) also point to the possibilities of "performing" play.
 
-Soundwalking is an excellent genre precedent to think about how not only our physical bodies inhabit an experience, but also how the physical world around us allows for performance. Artists like Hildegard Westerkamp built on the active listening practices of Pauline Oliveras and John Cage to invite listeners to playfully explore acoustic space. Tapping on bridges, shouting in tunnels, banging on cans: these playful acts require the listener to become performer in order to discover something new about the world around them.
+Soundwalking is an excellent genre precedent to think about how not only our physical bodies inhabit an experience, but also how the physical world around us allows for performance. Artists like Hildegard Westerkamp built on the active listening practices of Pauline Oliveros and John Cage to invite listeners to playfully explore acoustic space. Tapping on bridges, shouting in tunnels, banging on cans: these playful acts require the listener to become performer in order to discover something new about the world around them.
 
 Thinking about the player as performer and how soundwalks (and other interactive artworks) have used the movement of participants to create meaning, what new contemplative and playful experiences can we create?
 
