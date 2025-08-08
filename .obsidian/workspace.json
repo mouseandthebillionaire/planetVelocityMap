@@ -160,9 +160,19 @@
               "icon": "message-square",
               "title": "Enhanced Annotations"
             }
+          },
+          {
+            "id": "dc3197f5a51c72ae",
+            "type": "leaf",
+            "state": {
+              "type": "annotations-outline",
+              "state": {},
+              "icon": "message-square",
+              "title": "Enhanced Annotations"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -178,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3101fd2fa5d55e47",
+  "active": "dc3197f5a51c72ae",
   "lastOpenFiles": [
     "Proposal/README.md",
     "Media/ph.jpg",

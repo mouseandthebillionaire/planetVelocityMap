@@ -7,7 +7,18 @@
   "decoration": {
     "autoRegisterLabels": true,
     "styles": {
-      "labels": {},
+      "labels": {
+        "1754668182269": {
+          "label": "[P",
+          "id": "1754668182269",
+          "enableStyle": true,
+          "style": {
+            "color": "#10cff1",
+            "italic": true,
+            "fontWeight": "thin"
+          }
+        }
+      },
       "tag": {
         "style": {
           "fontSize": 10,
@@ -41,9 +52,7 @@
     "truncateFileName": false
   },
   "idling": {
-    "daysUnused": [
-      "2025-08-04"
-    ]
+    "daysUnused": []
   },
   "clipboard": {
     "templates": {
