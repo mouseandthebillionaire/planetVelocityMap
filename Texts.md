@@ -56,7 +56,6 @@ A bold statement. I don't know if I will feel comfortable using this anywhere in
 
 _"This mutual comparison among artistic disciplines will only result in success and triumph if what they learn from one another is not external but based on underlying inner principles. That is to say, one art form must first learn from another how to exploit its resources, and then learn how to apply its own media in a way that is _essentially the same_, but guided by the principle that is _unique_ to each discipline alone. In learning this the artist must not forget that every medium has its own appropriate mode of application which awaits discovery."_ (41)
 
-
 _"Eventually we come to a point where the distinct strengths of different arts coalesce, until which time we see the emergence of a new art, a synthesized art of which we have experienced but a taste: a truly emphasis monumental art."_ (42)
 
 41 and 40 to do a good job here arguing not only that we can learn from other art forms and apply them to the study at hand (namely games/play), but also 42 in particular points to an argument that games might _be_ that emergent new art that synthesizes all other art forms into a truly monumental art. A bold statement, perhaps, but something that could be used in the study.

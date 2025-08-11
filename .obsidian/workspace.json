@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texts.md",
+                "file": "Proposal/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Texts"
+              "title": "README"
             }
           }
         ]
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,8 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2864ed5f43183c0c",
+  "active": "3101fd2fa5d55e47",
   "lastOpenFiles": [
+    "references.bib",
+    "Texts.md",
     "Proposal/README.md",
     "Media/bs.jpg",
     "Media/ph.jpg",

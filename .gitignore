@@ -6,6 +6,7 @@ Builds/
 ThirdParty/
 Hidden/
 .env
+.obsidian/plugins/
 
 # Process to setup Project for 2022-2023 Git Repo
 # 1 - add .gitignore
