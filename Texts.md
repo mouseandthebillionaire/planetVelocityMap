@@ -14,6 +14,16 @@ The other option, of course, is to talk about community within an individual exp
 
 _"Magic and enchantment – the true sources of art – disappear from culture, to be replaced by discourse."_ (24)
 
+TODO: Reflect on Chapter 7
+
+_"Along the path towards work, thinking gradually distances itself from its origin in play."_ (79)
+
+ Chapter 9, generally talks about the beginnings of philosophy and how they used ritual games and riddle solving. He discusses how that has changed from a playful battle of wits to a workly thinking through the enlightenment, which is only exacerbated by the age of 'dataism.' Han also discusses that for Kant:
+
+_"In the face of beauty, the cognitive faculties, namely imagination and understanding, are in play mode. The subject likes what is beautiful; the beautiful creates a feeling of pleasure by triggering a harmonious interplay of the cognitive faculties. The beautiful does not buy itself produce knowledge, but it entertains the cognitive mechanisms and, by doing so, promotes the production of knowledge."_ (80)
+
+This is a pretty great section for discussing 'thinking' as a playful activity. I don't know how readily that feeds into contemplation (or if we're getting into sticky territory a la Deweyian reflection) but could be useful and/or at least a fun rabbit-hole to spend some time in.
+
 ## Han, B. "Vita Contemplativa," 2023
 
 _"We are losing a sense for the kind of inactivity that is not an incapability, not a refusal, not just the absence of activity but a capacity in itself."_ (1)
