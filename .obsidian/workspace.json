@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "3d3d47dd1fae7e5a",
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,7 +188,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3101fd2fa5d55e47",
+  "active": "b5092840f3cd3292",
   "lastOpenFiles": [
     "references.bib",
     "Texts.md",
