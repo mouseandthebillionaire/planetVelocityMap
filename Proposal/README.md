@@ -37,8 +37,7 @@ Janet Cardiff and George Bures Miller use their recorded soundwalks to guide the
 
 Kristina Niedderer's "performative objects" are another noteworthy example. %% cite %% She distinguishes these objects from Jacques Carelman's _Catalogue d'Objets Introuvables_ %% cite %% by describing them as, "objects that can cause mindfulness in the context of everyday use, and not in the institutional context of art." %% cite %% This separation means that the performative object must rely on adaptations within its formal elements to create a contemplative state *while remaining functional.* This is particularly interesting as we consider designing contemplative experiences for game-like experiments that retain their sense of play. %% [ P: I like the thing here of specifically identifying something you'll want to return to, worth keeping an eye out for which other theorists contribute something like this and consider whether it ought to be highlighted further structurally ] %%
 
-Another reference point for contemplative design is "ambient interactive experiences." %% cite %% These designs build on ideas from other slow, ambient media such as the music of Brian Eno %% e.g. %% and the films of Godfrey Reggio %% e.g. %% to create a more passive yet potentially deeper experience. The field of slow games is a compelling and clear precedent for this, but thinking about ambient media opens up the opportunity to include a lot more material. These projects are interested in slow pacing, obfuscation, and less "comfortable" experiences, with varying degrees of success. Examples include the work of David O'Reilly %% cite %% and Pippin Barr's v r 5 %% cite %%, among others.
-  
+Another reference point for contemplative design is "ambient interactive experiences." %% cite %% These designs build on ideas from other slow, ambient media such as the music of Brian Eno %% e.g. %% and the films of Godfrey Reggio %% e.g. %% to create a more passive yet potentially deeper experience. The field of slow games is a compelling and clear precedent for this, but thinking about ambient media opens up the opportunity to include a lot more material. These projects are interested in slow pacing, obfuscation, and less "comfortable" experiences, with varying degrees of success. Game designer and researcher Tracy Fullerton refers to this as 'reflective play' where slowness isn't "equivalent to meaningfulness, but rather because the process of making meaning through reflection requires time at a human pace, takes cycles of response, interpretation, and unpacking of experience." %% cite %% Examples include the cooperative game *Journey* %% cite %%, the work of David O'Reilly %% cite %% and Pippin Barr's *v r 5* %% cite %%, among others.
 ### Aesthetics of Contemplative Play
   
 Book III of Schopenhauer's %% cite %% "The World as Will and Representation" holds some key language about what he calls "aesthetic contemplation," which is pertinent to the ideas of contemplation in artistic fields. In section 34, he describes the shift from looking at something through "reason" to "a steady contemplation" by saying:  
@@ -108,9 +107,8 @@ My initial idea here is to have each of the main chapters focus on an aesthetic 
 
 ### Part 1
 	- Introduction
-	- Research Summary
+	- Background
 	- Methodology
-	- Contemplation, Reflection and Art
 
 %% [P: The boring standard approach would just be Introduction, Background, Method; if you want to go down that road.] %%
 ### Part 2: Aesthetics in Contemplative Play
