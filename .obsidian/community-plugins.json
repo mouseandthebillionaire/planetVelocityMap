@@ -1,5 +1,6 @@
 [
   "enhanced-annotations",
   "comments",
-  "obsidian-citation-plugin"
+  "obsidian-citation-plugin",
+  "obsidian-pandoc"
 ]
