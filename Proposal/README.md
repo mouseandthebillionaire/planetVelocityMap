@@ -114,85 +114,128 @@ In general, I propose to focus on each of the four main aesthetic-topic areas fo
 %% [P: Yep, fine by me. It's potentially the case you don't need the full year at the end, but why not right, and it's strategic at some level anyway, so all good.] %%
 ## Chapter Breakdown
 
-My initial idea here is to have each of the main chapters focus on an aesthetic of contemplative play. Through each of these lenses, I will look at a specific artistic practice from outside the realm of games and then apply the lessons learned to a designed play experience. %% [P: Feels like this can obviously be more confident and together. Not clear you need a Part 1 and a Part 2, I think it can just be a series of chapters] %%
+### Introduction
 
-### Part 1
-	- Introduction
-	- Background
-	- Methodology
+The introduction will frame the thesis by defining “contemplative play” as a response to the overstimulation of modern life. It will introduce the basic brushstrokes of the philosophical and aesthetic discourse. It will situates play as a meaningful way of engagement supported by thinkers, artists, and game theorists. It will introduce the concept of contemplative play aesthetics (Players, Playthings, Playgrounds, and Playtime) that will guide the thesis’s design experiments and analysis. **See Above**
+### Background
 
-%% [P: The boring standard approach would just be Introduction, Background, Method; if you want to go down that road.] %%
-### Part 2: Aesthetics in Contemplative Play
+The background section will ground the thesis in existing scholarship and introduce and explain key terms and domains. It will look at the lineage of reflective design, contemplative design, and design aesthetics before introducing and establishing it's own aesthetics of contemplative play. **See Above**
+### Methodology
 
-%% [P: It's not impossible you could be pinged a bit for these bits being a little on the short end. Feels like you probably already have so much more to say and project about the area + the project(s) you want to talk about.] %%
-#### Player
+The methodology chapter introduces the key literature for design as a powerful way to engage with knowledge-creation and meaning-making. Tracing the thinking from Frayling to Redström, Schön, Cross, Candy, etc., it lays the groundwork for the exploratory nature of the thesis, where both the process of experimentation and the experiments themselves will be the artifacts with which we will build an aesthetics of contemplative play. **See Above**
+### Player
 
-In this chapter I will: 
+This chapter examines the role of the participant both in play and in contemplation. We will look at concepts of play like player agency, performance, and flow as well as concept of contemplation like repetition, purposeful obfuscation, and focus. It will include the following sections:
+#### Aesthetic Description
 
-It will include the following sections:
+Much of play is performative. A player acts out scenarios. They move their body in a coordinated effort with other players or the playful system. Play can even be designed so that the act of playing is engaging from those outside of the playspace. Professional sports is a clear example of this, but Let's Plays, E-Sports, and arcade experiences (kids gathered around a Street Fighter cabinet in the 90s or DDR machines in the early aughts) also point to the possibilities of "performing" play. Contemplation is also about performing. The contemplative practitioner moves their body in a particular way, engages in repetitive action, and seeks to create states of both flow and often unexpected ocurrance. How might this overlap be explored?
+#### Related Genres
 
-Aesthetic description
-Related genre description
-Existing crossover
-Ideas to explore
+![Her Long Black Hair | Janet Cardiff & George Bures Miller](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcardiffmiller.com%2Fwp-content%2Fuploads%2F2004%2F05%2FStop-1-1280x897.jpg&f=1&nofb=1&ipt=3194d6032e0d78a8d6c95a8075a40fcf7b519df3139a385c87450d9c9657f48e)
+<small>Image Info</small>
 
-Much of play is performative. A player acts out scenarios. They move their body in a coordinated effort with other players or the playful system. Play can even be designed so that the act of playing is engaging from those outside of the playspace. Professional sports is a clear example of this, but Let's Plays, E-Sports, and arcade experiences (kids gathered around a Street Fighter cabinet in the 90s or DDR machines in the early aughts) also point to the possibilities of "performing" play.
+Soundwalking is an excellent genre precedent to think about how not only our physical bodies inhabit an experience, but also how the physical world around us allows for performance. Artists like Hildegard Westerkamp %% cite %% built on the active listening practices of Pauline Oliveros %% cite %% and John Cage %% cite %% to invite listeners to playfully explore acoustic space. Tapping on bridges, shouting in tunnels, banging on cans: these playful acts require the listener to become performer in order to discover something new about the world around them. 
 
-Soundwalking is an excellent genre precedent to think about how not only our physical bodies inhabit an experience, but also how the physical world around us allows for performance. Artists like Hildegard Westerkamp built on the active listening practices of Pauline Oliveros and John Cage to invite listeners to playfully explore acoustic space. Tapping on bridges, shouting in tunnels, banging on cans: these playful acts require the listener to become performer in order to discover something new about the world around them.
+The soundwalks of Janet Cardiff and George Bures Miller are of particular interest here. %% cite %% Since 2017, they have been creating site-specific audio and video walks. These walks function as alternative audioguide experiences, layering narrative voice, music, description, sound effects, and more onto the existing aural environment. What begins as a walk through central park becomes a meditation on love, longing, loss, history, and art. These walks already have a playful and contemplative feeling to them, and expanding on their ideas and processes may lead to new knowledge, as can already be seen in the "Experiments in Soundwalks for Video Games" paper that I have already published specifically about this topic. %% cite %%
+#### Existing Work
 
 Thinking about the player as performer and how soundwalks (and other interactive artworks) have used the movement of participants to create meaning, what new contemplative and playful experiences can we create?
 
 ![Miles Morales](../Media/spiderman.png)
+<small>Image Info</small>
 
 Games and Soundwalks both operate in this area of "performance," but come from at it at slightly different angles. The game "performance" is generally much more about how the avatar "performs" that the actual player. An early attempt to interweave soundwalks with play was a series of soundwalks for the PS5 game _Spiderman 2_, and while compelling for a variety of reasons, this concept of performance remains unexplored. %% cite the paper %%
 
 ![Buy! Sell!](../Media/bs.jpg)
+<small>Image Info</small>
 
-Installation-based play, Like Buy! Sell! thinks about the player as performer. In a similar way, playful soundwalks could be a space to explore the overlap between play and performative spaces. Janet Cardiff hints at these playful moments in her soundwalks, and future work (such as the "An Invitation to Play" soundwalk accepted to ICMC 2025 in Boston) will be a further exploration of these ideas.
+Installation-based play, Like Buy! Sell! %% cite %% thinks about the player as performer. In a similar way, playful soundwalks could be a space to explore the overlap between play and performative spaces. Janet Cardiff hints at these playful moments in her soundwalks, and existing work like the "An Invitation to Play" %% cite %% soundwalk recently presented at ICMC 2025 in Boston explicitly explore this crossover.
+#### Ideas to Explore
 
-#### Playspace
+The "An Invitation to Play" soundwalk was a good start in exploring how directed play could be approached in a soundwalk. In that example, a narrator led the participant through playful thinking and activities in a given space. Analysis will need to be done to think through and iterate on that approach, but an immediate counter-approach presented itself through the creation process. Rather than guide the player by the hand, could we more subtly create a contemplative state? In *Vita Contemplativa,* Han states "information is the active form of language. Poetry, by contrast, suspense, language as information. In poetry, language enters the mood of contemplation. It becomes inactive." %% cite %% What would a soundwalk that exists in a poetic rather than an expository mode look and feel like? What if the ideas are more hidden? Could obfuscation be a powerful tool here? Is something more compelling if it harder to understand, harder to get to the core of? Is current mainstream videogame storytelling too blunt? The existing thinking around 'poetic games' %% cite %% is looking at these questions, and might also be a fruitful area of exploration.
 
-Space is a core aesthetic to the play experience. The concept of the magic circle in particular, sets to explain the physical, and mental demarcation between "the real" world and the imaginatively playful world. It is this established structure that gives the player agency to engage in playful acts, choosing one possible action over another and reflecting on how those actions contribute to the imagined world. 
+### Playthings
 
-Contemplative Architecture is similar in that the creation and consecration of a space can engender different perspectives than the ones a person came in with. Changes in sound, light, and material imbue the space with a meaning in contrast to the outside world. Huizinga's discussion of the "play-festival-rite" is of particular interest here, as it provides a direct link between play and contemplative (even sacred) spaces.
 
-Focusing on this concept of the space in which play happens (i.e the magic circle) and examples from Contemplative Architecture, how can we create playfully contemplative experiences? Busy Work and TIKATMOS are two games that explore this question by creating distinct (and physical) gameworlds to facilitate a certain level of engaged play. 
+This chapter examines how the objects we play with inform the act of play. We will look at the formal and material considerations or playthings, their weight, heft, texture, and embedded meaning as well how objects can be used to initiate contemplative states (particularly in design, but also looking at art-objects and religious iconography) It will include the following sections:
 
-![Busy Work](../Media/bw.jpg)
-
-Using narrative elements, physical actions, and environmental storytelling through the built environment, Busy Work examines the modern challenge of accomplishing work while juggling conflicting priorities. Players are left wondering if what they do matters, whether or not they are set up to fail and if the rewards are worth the effort. People handle the mundane and possibly futile aspects of life in many ways, and this work helps player to reflect on this by giving them playful options based on lived experience. 
-
-![TIKATMOS](../Media/tikatmos.jpg)
-
-TIKATMOS is a deeply speculative interactive installation that seeks to explore gaps in conversation, sustainability, the future of humanity, and what it means to help using voice-control technology and adaptive audio. By putting the player in the role of an unidentified species, and creating a fleshed-out world space, TIKATMOS pokes around some interesting questions about identity.
-
-#### Playthings
+#### Aesthetic Description
 
 The materiality of the objects in play has a profound effect on the playful experience. Not only do textures, shapes, and other physical characteristic communicate essential aspects of these items (which Fullerton dubs "resources"), but the very introduction of external elements themselves communicates something about the playful experience. A verbal bang, pointed finger, plastic cap-gun, and hyper-realistic 3D modeled firearm say something of the values at play in the games that include them, but the presence of weaponry at all as a "resource" communicates even more.
+#### Related Genres
 
-The Performative Objects of Kristina Niedderer fit well into this understanding, as they strategically explore the material and functional aspects of objects in order to provoke what she calls "mindful interactions." Their materiality (often at odds with rather than in service to their functionality) initiates a more reflective stance from the user within the context of their intended use. Yoko Ono's "Play it by Heart" is another clear example of how the materiality of an object can be at service for both play and contemplation.
+![Kristina Niedderer joins Manchester School of Art as Professor of ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mmu.ac.uk%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fopen_graph_image%2Fpublic%2F2019-01-11%252013%3A19%3A14%2F5c3897d2d38a3.jpg%3Fh%3D248b0752%26itok%3DpxH03_ZZ&f=1&nofb=1&ipt=3526be90afe9554028c8c485db90a35a2b6aa9fa8fcad5bb333d7e19f243e430)
+<small>Image Info</small>
+
+The Performative Objects of Kristina Niedderer %% cite %% fit well into this understanding, as they strategically explore the material and functional aspects of objects in order to provoke what she calls "mindful interactions." Their materiality (often at odds with rather than in service to their functionality) initiates a more reflective stance from the user within the context of their intended use. Yoko Ono's "Play it by Heart" %% cite %% is another clear example of how the materiality of an object can be at service for both play and contemplation. In a slightly different mode, Yurkio Saito's notion of *Everyday Aesthetics* %% cite %%, where reflective experiences can happen with ordinary objects in everyday life, is a great starting place to explore how the obects of play shape our experiences.
+#### Existing Work
 
 "Performative resources" seems then to be a fertile space for exploration (albeit not a great name). Within this understanding, a designer would create material objects for play in which their materiality informs both the playful act and the associated contemplative experience.
 
 ![Please Hold](../Media/ph.jpg)
+<small>Image Info</small>
 
-Alt-ctrl is specifically interested in an expansion of the "stuff" of games. We build alt-ctrl installations to ask, "what if a phone was a controller," or "what if a series of hold menus could be playful?" Games like TIKATMOS, Busy Work, Buy Sell, and Please Hold (above) rely on their objects for the player to interact with. These objects communicate the game world, but they also can work in cooperation with (or opposition to) their perceived uses. A phone communicates "phone-ness" but does the playful experience hidden within become stronger by breaking free of its mundane appearance?
+Alt-ctrl is specifically interested in an expansion of the "stuff" of games. We build alt-ctrl installations to ask, "what if a phone was a controller," or "what if a series of hold menus could be playful?" Existing games in my artistic practice, including TIKATMOS %% cite %%, Busy Work %% cite %%, Buy Sell %% cite %%, and Please Hold %% cite %% (above) rely on specially designed and constructed objects for the player to interact with. These objects communicate the game world, but they also can work in cooperation with (or opposition to) their perceived uses. A phone communicates "phone-ness" but does the playful experience hidden within become stronger by breaking free of its mundane appearance?
+#### Ideas to Explore
 
-#### Playtime
+![[amaze1.jpeg]]
+<small>Image Info</small>
 
-In _Das Spiel. Theorien des Spiels_, Hans Scheuerl argues that "play is always a 'playing between'" various characteristics like seriousness and pleasure, rules and chance, focused effort and ease. This concept of 'ambivalence,' in conjunction with Csikszentmihalyi's 'flow' helps to explain the playful state. The oscillation between the states is where play exists. Salen and Zimmerman use the example of the 'play' in a steering wheel.
+My most recent project cycle of Lest Ten Horizons Cry %% cite %% and Instauratio Exiguus %% cite %% are specifically designed to instigate contemplative experiences. Looking at how the objects themselves communicate a contemplative mindset is one clear line of inquiry. Exploring the ideas set forth in Han's *Vita Contempletiva* %% cite %%, how can we leverage the play object? Do the ergonomics matter? If so, are _difficult_ ergonomic situations a powerful way to introduce meaning? Similarly, would more confusing and/or obtuse control structures and visual representations hurt or help? Is a flow state useful? Is that the same thing as contemplation? 
 
-Ambient Media also relies on this tension between something that can demand focused attention but also exist entirely in the background. Eno imagined his ambient music as the soundscape to an environment, ever present,  always playing, with the listener able to tune-in or out as they pleased. Games like Oreilly's _Mountain_ are examples of how 'ambient games' might function, in which the player's attention can traverse this ambivalent space at will.
+### Playspace
 
-How can the concept of ambient ambivalence be leveraged in regards to time? How can we move the playing of games _away_ from flow-focused and mark the passing of time for contemplative ends? Note: PB's statement of "time is one of the most valuable resources that we ask of our players" is of particular note here.
+This chapter examines how the spaces of play effect states and attitudes of play. Exploring the magic circle both in its playful and contemplative implications will lead to new possibilities of creating spaces that foster both states. It will include the following sections:
+#### Aesthetic Description
+
+Space is a core aesthetic to the play experience. The concept of the magic circle in particular, sets to explain the physical and mental demarcation between "the real" world and the imaginatively playful world. It is this established structure that gives the player agency to engage in playful acts, choosing one possible action over another and reflecting on how those actions contribute to the imagined world. In contemplation, spaces can play an important role in bringing about a reflective state. Some spaces are inherently more contemplative than others, but also, much of contemplation (as in play) happens in the space of the mind. 
+#### Related Genres
+
+![Theaster Gates' big idea - the Serpentine Pavilion, reviewed - Apollo ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.apollo-magazine.com%2Fwp-content%2Fuploads%2F2022%2F06%2F070622_0108.jpg%3Fresize%3D790%252C527&f=1&nofb=1&ipt=eb2a078ea1d9df4ad4632aa5f81ef4995ba00106d5db5714308ef27ef210f754)
+<small>Image Info</small>
+
+Contemplative Architecture exemplifies how creation and consecration of a space can engender different perspectives than the ones a person came in with. %% cite %% Changes in sound, light, and material imbue the space with a meaning in contrast to the outside world. Huizinga's discussion of the "play-festival-rite" is of particular interest here, as it provides a direct link between play and contemplative (even sacred) spaces. %% cite %% Miguel Sicart's chapter on playgrounds in *Play Matters* %% cite %% which analyzes the historical lineage and social meaning of public areas of play is also a valuable resource for this chapter.
+#### Existing Work
+
+Focusing on this concept of the space in which play happens (i.e the magic circle) and examples from Contemplative Architecture, how can we create playfully contemplative experiences? Busy Work %% cite %% and TIKATMOS %% cite %% are two existing games that I have developed that explore this question by creating distinct (and physical) gameworlds to facilitate a certain level of engaged play. 
+
+![Busy Work](../Media/bw.jpg)
+<small>Image Info</small>
+
+Using narrative elements, physical actions, and environmental storytelling through the built environment, Busy Work examines the modern challenge of accomplishing work while juggling conflicting priorities. Players are left wondering if what they do matters, whether or not they are set up to fail and if the rewards are worth the effort. People handle the mundane and possibly futile aspects of life in many ways, and this work helps player to reflect on this by giving them playful options based on lived experience. 
+
+![TIKATMOS](../Media/tikatmos.jpg)
+<small>Image Info</small>
+
+TIKATMOS is a deeply speculative interactive installation that seeks to explore gaps in conversation, sustainability, the future of humanity, and what it means to help using voice-control technology and adaptive audio. By putting the player in the role of an unidentified species, and creating a fleshed-out world space, TIKATMOS pokes around some interesting questions about identity.
+#### Ideas to Explore
+
+Physical installations are obviously a good area to coontinue exploring this concept, but are there any design possibilities in digital spaces. Looking at games like Pippin Barr's Vr5 %% cite%% and David Kanaga's Proteus %% cite %%, can we create sacred digital space? What would make it contemplative? Is it possible to have virtual contemplation or is it necessary to be in the real world for proper contemplation? Additionally, can we leverage sound for robust mental spaces for contemplation apart from relying on visual stimuli? Is there crossover with the idea of contemplative soundwalks? 
+
+### Playtime
+
+This chapter explores how time is involved both in play and contemplation. Taking lessons from ambient media, slow games, and traditional contemplative practice, we will explore how adjusting, slowing, stopping, and ignoring time can effect the potentials for playful and contemplative experiences. It will include the following sections:
+#### Aesthetic Description
+
+In _Das Spiel. Theorien des Spiels_, Hans Scheuerl argues that "play is always a 'playing between'" various characteristics like seriousness and pleasure, rules and chance, focused effort and ease. %% cite %% This concept of 'ambivalence,' in conjunction with Csikszentmihalyi's 'flow' %% cite %% helps to explain the playful state. The oscillation between the states is where play exists. Salen and Zimmerman use the example of the 'play' in a steering wheel. %% cite %%
+#### Related Genres
+
+Ambient Media also relies on this tension between something that can demand focused attention but also exist entirely in the background. Brian Eno %% cite %% imagined his ambient music as the soundscape to an environment, ever present, always playing, with the listener able to tune-in or out as they pleased. Games like Oreilly's _Mountain_ %% cite %% are examples of how 'ambient games' might function, in which the player's attention can traverse this ambivalent space at will.
+#### Existing Work
 
 ![Lest Ten Horizons Cry](../Media/lthc.jpg)
+<small>Image Info</small>
 
 _Lest Ten Horizons Cry_ is an exploration in how we can explore game spaces with traditional electronic instrument interfaces. In this way, the design of this experience is also deeply concerned with material object, but ths way that that interaction changes over time is the most relevant here. Initially, users are presented with a custom-built boutique synthesizer. By turning the dials, the various sonic parameters can be adjusted, creating an ever-evolving sonic landscape. The large synthesizer screen displays simple, cryptic, but generally traditional visuals mapped to each of these physical dials. It is only after focused attention from the player that another world can be discovered. And this attention is not required. Only a player who is willing to engage with a seemingly "difficult" interface is rewarded with this experience.
 
 ![The Meeting](../Media/themeeting.jpg)
+<small>Image Info</small>
 
 The Meeting functions on a similar concept. What looks on the surface like a standard "clicker game" becomes an entirely different experience if the user refuses to interact with it the way it seems to communicate that it should be interacted with (i.e to *not* touch it; to *not* click)
+#### Ideas to Explore
+
+How can the concept of ambient ambivalence be leveraged in regards to time? How can we move the playing of games _away_ from flow-focused and mark the passing of time for contemplative ends? Pippin Barr's statement of "time is one of the most valuable resources that we ask of our players" %% cite %% is of particular importance here. Is pervasive technology, where it is always running in the background asking for less focused attention, a good vehicle for contemplative play? How else might we explore the idea of 'attention' in play? What about 'intention?' Additionally, contemplation itself is an activity outside of 'time.' It is often an activity of attentive waiting. It asks you to stop doing. To stop being productive. As with games, this could be looked at as a 'waste of time.' Han's concept of ritualistic time demarcated from productive time is informative for this discussion. %% cite %%
+
 
 ## References
 
