@@ -66,6 +66,10 @@ end
 
 Like I said, a little fiddly, but it's all working well now and will be nice to have this in working order as I move forward.
 
+Also (this was added on 09.04) just as a note for myself
+- shift+command+c is the citation hotkey
+- shift+command+p is the print to pdf hotkey
+
 ## Notes: 
 
 [^1]: Already the section on "Time" feels less defensible as being tied to Ambient Media, but it's also probable that I'm just too tired to give it the attention it deserves. Don't abandon it yet!
