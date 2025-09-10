@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/README.md",
+                "file": "Texts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Texts"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proposal/README.md",
+                "file": "Texts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Texts"
             }
           },
           {
@@ -191,8 +191,8 @@
   },
   "active": "2864ed5f43183c0c",
   "lastOpenFiles": [
-    "Proposal/README.pdf",
     "Proposal/README.md",
+    "Proposal/README.pdf",
     "Media/amaze1.jpeg",
     "References/small.lua",
     "References/Note Template.md",
