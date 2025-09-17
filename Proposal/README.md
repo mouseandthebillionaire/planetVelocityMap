@@ -5,9 +5,7 @@ header-includes:
   - \titlespacing*{\paragraph}{0pt}{1ex}{0.5ex}
 ---
 
-# A Proposal
-
-_notes: ~9000 words (without references)_
+# Aesthetics of Contemplative Play
 
 ## Introduction
 
