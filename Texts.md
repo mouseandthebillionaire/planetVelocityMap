@@ -75,3 +75,19 @@ _"because thinking is generally thought of as doing nothing in a production-orie
 _"I suspect that the mind, like the feet, works at about three miles an hour"_ (10)
 
 Page 10 also has a long discourse on the ways that the march towards efficiency/technology has actually made our free-time worse by leaving no space for "unstructured travel in between." This idea is coming from so many other people as well, but noting here in case I need even more citations to back up the claim.
+
+_"Walking is a subversive detour, the scenic route through a half-abandoned landscape of ideas and experiences."_ (12)
+
+_"A lone walker is both present and detached from the world around, more than an audience, but less than a participant. Walking assuages or legitimizes this alienation: one is mildly disconnected because one is walking, not because one is incapable of connecting."_ (24)
+
+_"Walking shares with making and working that crucial element of engagement of the body and the mind with the world, of knowing the world through the body and the body through the world."_ (29)
+
+_"Secular walking is often imagined as play, however, competitive and rigourous that play, and uses gear and techniques to make the body more comfortable and more efficient. Pilgrims, on the other hand, often try to make their journey, harder, recalling the origin of the word travel in _travail_."_ (45-46)
+
+*"the subject of gardens was becoming nature itself – a very specific version of nature, nature as a visual spectacle of plants and water and space, a serene thing to be contemplated serenely. Unlike the formal garden and the painting, which had a single ideal point of view from which they could be regarded, the English landscape garden 'asked to be explored, it surprises and unsuspected corners to be discovered on foot'"* (90)
+
+It feels like there's something more here to think about. This idea that a particular art form (in this case the garden) can have a formal and or normal idea and then a more contemplative idea is kind of what I'm going for in this whole study. We can think of movies in the same way perhaps? There are formal/normal movies and then there are movies that are more challenging. More contemplative. Different somehow. Additionally, this concept that a single point of view is in contrast to a deeper explored experienced feels right, especially when we talk about games.
+
+*"Nature was no longer a setting, but the subject. And the walkers in such a garden were no longer being steered toward ready-made reflections on virtue or Virgil; they were free to think their own thoughts as they followed the meandering paths."* (92)
+
+This echos the quote from page 90 as well. This idea that the thing that you are doing can become the item of compilation is something that I'm thinking about a lot here. Right now games are a window or a vehicle with which to tell a story about something or present an idea about something, but could the thing that you're contemplating be play and/our games themselves. Obviously this isn't the exact focus of the study but is something to be thinking about. 
