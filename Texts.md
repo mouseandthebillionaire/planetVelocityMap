@@ -68,6 +68,12 @@ _"Eventually we come to a point where the distinct strengths of different arts c
 
 41 and 40 to do a good job here arguing not only that we can learn from other art forms and apply them to the study at hand (namely games/play), but also 42 in particular points to an argument that games might _be_ that emergent new art that synthesizes all other art forms into a truly monumental art. A bold statement, perhaps, but something that could be used in the study.
 
+## Nguyen, C. *Games: Agency as Art*, 2020
+
+Nguyen's argument that _agency_ is one of the core aesthetics of games fits nicely in my chapter on Player. I had been thinking about performance as the key thing here, but maybe the agency within that performance is more important. Additionally on page 19, he speaks about the artificiality of games, which could work with the chapter on playspace:
+
+*"They can function as a refuge from the inhospitality of ordinary life [..] we sculpt for ourselves exactly the kind of practical activity we wish to engage in. We pick the goals, abilities, and the world."* (19)
+
 ## Solnit, R. _Wanderlust_, 2020
 
 _"because thinking is generally thought of as doing nothing in a production-oriented culture, and doing nothing is hard to do. It's best done by disguising it as doing something and the something closest to doing nothing is walking… It is a bodily labor that produces nothing but thoughts, experiences, arrivals."_ (5)
