@@ -2,6 +2,12 @@
 
 A collection of essays, books, articles, games, music, and artworks referenced during the making/writing of this study
 
+## Andre, Carl
+
+![Carl Andre - Sculptures](https://cdn.britannica.com/73/181273-050-6363B868/exhibition-DIA-Beacon-Carl-Andre-NY-work-March-2015.jpg)
+
+*"My idea of a iece of sculpture is a road [...] That is, a road doesn't reveal itself at any particular point or from any particular point. Roads appear and disappear .... We don't have a single point of view for a road at all, except a moving one, moving along it."* - quoted from Solnit's *Wanderlust* who adds that "Andre's minimal sculptures, like Chinese scrolls, reveal themselves over time in response to the movement of the looker." (269)
+
 ## Han, B. _The Disappearance of Rituals_, 2020
 
 _"Rituals are processes of embodiment and bodily performances."_ (11)
@@ -97,3 +103,7 @@ It feels like there's something more here to think about. This idea that a parti
 *"Nature was no longer a setting, but the subject. And the walkers in such a garden were no longer being steered toward ready-made reflections on virtue or Virgil; they were free to think their own thoughts as they followed the meandering paths."* (92)
 
 This echos the quote from page 90 as well. This idea that the thing that you are doing can become the item of compilation is something that I'm thinking about a lot here. Right now games are a window or a vehicle with which to tell a story about something or present an idea about something, but could the thing that you're contemplating be play and/our games themselves. Obviously this isn't the exact focus of the study but is something to be thinking about. 
+
+*"There is a subtle state, most dedicated urban walkers know, a sort of basking in solitude – a dark solitude punctuated with encounters as the night sky is punctuated with stars. In the country, one solitude is geographical, and – one is altogether outside society, so solitude has a sensible, geographical explanation, and then there is a kind of communion with the non-human. In the city, one is alone because the world is made up of strangers, and to be a stranger, surrounded by strangers, to walk along silently, bearing one's secrets, and imagining those of the people one passes, is among the starkest of luxuries. This uncharted identity with its illimitable possibilities is one of the distinctive qualities of urban living, a liberatory state, for those should come to emancipate themselves from family and community expectation, to experiment with subculture and identity. It is an observer's state, cool, withdrawn, with senses sharpened, a good state for anybody who needs to reflect or create. In small doses, melancholy, alienation, and introspection are among the life's most refined pleasures."* (186)
+
+A great paragraph here that I might end up using for the NYC walk. Obviously the sentence about reflection is really helpful, but the whole section gives such a nice _feeling_ to the benefits of walking in the city. It perfectly puts words to an experience that I love.
