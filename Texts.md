@@ -30,6 +30,33 @@ _"In the face of beauty, the cognitive faculties, namely imagination and underst
 
 This is a pretty great section for discussing 'thinking' as a playful activity. I don't know how readily that feeds into contemplation (or if we're getting into sticky territory a la Deweyian reflection) but could be useful and/or at least a fun rabbit-hole to spend some time in.
 
+## Han, B. *Non-things*, 2022
+
+Note: Picked this one up because I thought it would be especially good for the 'plaything' section of the thesis. Started reading it while working on the [Eikon](https://github.com/mouseandthebillionaire/eikon) project for Whaaat!? 2025, and used [a collection of passages](https://github.com/mouseandthebillionaire/eikon/blob/main/Process/Journal.md#102725--koans) from the book as texts for that project.
+
+*"We are now in the habit of perceiving reality in terms of attraction and surprise. As information hunters, we are becoming blind to still, inconspicuous things, to what is common, the incidental, and the customary – the things that do not attract us, but ground us in being."* (preface ix)
+
+A good distinction between the flash of digital technologies and the contemplative nature of certain objects. The whole book, in fact, is filled with this distinction.
+
+*"Lingering is another time, consuming practice. Perception that latches onto information does not have a lasting and slow gaze. Information makes us shortsighted and short of breath. It is not possible to linger on information lingering on things in contemplation, intentionless seeing, which would be a formula for happiness, gives way to the hunt for information. Today, we pursue information without gaining knowledge. We take notice of everything without gaining any insight. We travel across the world without having an experience. We communicate incessantly without participating in a community. We collect vast quantities of data without following up on our recollections. We accumulate 'friends' and 'followers' without meeting an other."* (7)
+
+Much of this was used as the texts for Eikon. Some really snappy bold statements in here that lent themselves well to that. A note that I haven't included the numerous german translations from the original text.
+
+*"The emancipatory effects of digitalization promise a form of life that resembles play."* (8-9)
+
+Probably not of use to me due to its damning nature, but Han's notion of *phono sapiens* is an interesting one. He plots a trajectory from *homo faber* (Hegel: Spirit is work. Spirit is hand), to the idea of *homo ludens*, to the current stage *phono sapiens,* and mourns the loss. Not sure if I can somehow incorparate this. Is there something to be said for the desire to use *other* forms of play than the phone?
+
+*"Smart phones have established themselves as the devotional objects of the neoliberal regime. As apparatus that served the purpose of submission, they resemble the rosary, which is just as mobile and handy. The 'like' is the digital amen."* (24)
+
+Ha! What a statement. An argument could be made based on this this that 'contemplative' objects are already present in people's lives, but that the focus of that contemplation is hollow? Likewise, the next page begins an argument that the phone is not a *transitional object* as is often argued. Truly transitional objects, Han argues, "build a bridge to reality, to the other, to what escapes the fantasy of omnipotence." (26) Additionally, these are irreplaceable objects. When a child loses their blankie, it cannot be easily replaced. But when we lose a phone, we simply mourn the sunk cost and buy another:
+
+*"the child imbues the transitional object with symbolic value. The object becomes the vessel in which the child's dreams are concentrated. The smart phone, by contrast, floods us with stimuli and represses our imagination."* (27)
+
+Additionally:
+
+*"Unlike the transitional object, the smart phone is hard; it is not a digital teddy bear. Rather, it is a narcissistic, autistic object through which we feel, most of all, ourselves. It thus also destroys empathy. We use the smart phone to retreat into a narcissistic sphere in which we are protected against the imponderable pertaining to the other. […] We communicate so compulsively so excessively, because we are lonely and empty. But hypercommunication is not fulfilling. Because it lacks the presence of the other, it only deepen the loneliness."* (28)
+
+
 ## Han, B. _Vita Contemplativa_, 2023
 
 _"We are losing a sense for the kind of inactivity that is not an incapability, not a refusal, not just the absence of activity but a capacity in itself."_ (1)
