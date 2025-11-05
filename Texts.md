@@ -8,6 +8,18 @@ A collection of essays, books, articles, games, music, and artworks referenced d
 
 *"My idea of a iece of sculpture is a road [...] That is, a road doesn't reveal itself at any particular point or from any particular point. Roads appear and disappear .... We don't have a single point of view for a road at all, except a moving one, moving along it."* - quoted from Solnit's *Wanderlust* who adds that "Andre's minimal sculptures, like Chinese scrolls, reveal themselves over time in response to the movement of the looker." (269)
 
+## Crawford, M. _The World Beyond Your Head_
+
+*"the Epicurean recommendation, in contrast to the Stoic, is that if you are disturbed by some unwanted emotion, it is a shift of attention, rather than a wilful effort of belief, that will deliver you from it."* (173)
+
+*"the Latin root of our English word attention is _tenere_, which means to stretch or make tense. External objects provide an attachment point for the mind; they can pull us out of ourselves. But only if they are treated _as_ external logics, with her reality of their own."* (175)
+
+Two great quotes for the playthings section of this exploration. Obviously a tad prescriptive/spiritual (especially the first) but could provide some footing for why focusing on an external object during play is beneficial.
+
+"The Kabuki dance of our electronic lives" (176)
+
+TODO: Fill in the notes from earlier chapters (if any are fitting)
+
 ## Han, B. _The Disappearance of Rituals_, 2020
 
 _"Rituals are processes of embodiment and bodily performances."_ (11)
@@ -140,3 +152,7 @@ This echos the quote from page 90 as well. This idea that the thing that you are
 *"There is a subtle state, most dedicated urban walkers know, a sort of basking in solitude – a dark solitude punctuated with encounters as the night sky is punctuated with stars. In the country, one solitude is geographical, and – one is altogether outside society, so solitude has a sensible, geographical explanation, and then there is a kind of communion with the non-human. In the city, one is alone because the world is made up of strangers, and to be a stranger, surrounded by strangers, to walk along silently, bearing one's secrets, and imagining those of the people one passes, is among the starkest of luxuries. This uncharted identity with its illimitable possibilities is one of the distinctive qualities of urban living, a liberatory state, for those should come to emancipate themselves from family and community expectation, to experiment with subculture and identity. It is an observer's state, cool, withdrawn, with senses sharpened, a good state for anybody who needs to reflect or create. In small doses, melancholy, alienation, and introspection are among the life's most refined pleasures."* (186)
 
 A great paragraph here that I might end up using for the NYC walk. Obviously the sentence about reflection is really helpful, but the whole section gives such a nice _feeling_ to the benefits of walking in the city. It perfectly puts words to an experience that I love.
+
+## Weil, S.
+
+*"Something in our soul has a far more violent repugnant for true attention than the flesh has for bodily fatigue. This something is much more closely connected with evil than is the flesh. That is why every time that we really concentrate our attention, we destroy the evil in ourselves."*
