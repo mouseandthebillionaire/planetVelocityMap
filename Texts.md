@@ -153,6 +153,10 @@ This echos the quote from page 90 as well. This idea that the thing that you are
 
 A great paragraph here that I might end up using for the NYC walk. Obviously the sentence about reflection is really helpful, but the whole section gives such a nice _feeling_ to the benefits of walking in the city. It perfectly puts words to an experience that I love.
 
+## Tarighian, T.  [100 Deep Breaths](https://100-deep-breaths.com/), 2025
+
+Oy vey! There's something unsettling about watching someone breathe, and that is even more compounded when it is one-hundred AI-generated humans. What a fascinating project. So many questions and reflections arise from this. What is so unsettling about this? Is it the intimacy? The close-up images? The uncanniness of the AI? The sound? The sound is definitely a _lot_. I have it muted right now so that I can write this, and it feels far less oppressive quietly running in a separate window.  Watching (most of, haha) the inhalations and exhalations is actually somewhat soothing. 
+
 ## Voisen, S. "Design for Lingering," 2025
 
 Sean Voisen has an interesting designer/creator-based reflection on Byung-Chul Han in this blog post: https://seanvoisen.com/blog/design-for-lingering/. His take leans a little more on the idea of "lingering" than Han does, but that entry-point serves as a really good contrast to the rapid world that we inhabit. Most importantly, Voisen lists some very good food-for-thought ideas of design interventions that counter the current unhealthy state of computational technologies. These include ideas that might focus on:
