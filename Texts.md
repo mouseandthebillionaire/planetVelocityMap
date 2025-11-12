@@ -153,6 +153,20 @@ This echos the quote from page 90 as well. This idea that the thing that you are
 
 A great paragraph here that I might end up using for the NYC walk. Obviously the sentence about reflection is really helpful, but the whole section gives such a nice _feeling_ to the benefits of walking in the city. It perfectly puts words to an experience that I love.
 
+## Voisen, S. "Design for Lingering," 2025
+
+Sean Voisen has an interesting designer/creator-based reflection on Byung-Chul Han in this blog post: https://seanvoisen.com/blog/design-for-lingering/. His take leans a little more on the idea of "lingering" than Han does, but that entry-point serves as a really good contrast to the rapid world that we inhabit. Most importantly, Voisen lists some very good food-for-thought ideas of design interventions that counter the current unhealthy state of computational technologies. These include ideas that might focus on:
+
+- Slow-release content
+- Depth-over-breadth
+- Intentional asynchronicity
+- Betond temporal inrterventions
+- Reciprocal engagement
+- Time gifts
+- Shared contemplation
+
+which each serve as a great leaping-off point for ideation on potential projects. Additionally, it's great to see the word 'contemplation' being used so freely (and much more alligned with how I would iagine it being used)
+
 ## Weil, S.
 
 *"Something in our soul has a far more violent repugnant for true attention than the flesh has for bodily fatigue. This something is much more closely connected with evil than is the flesh. That is why every time that we really concentrate our attention, we destroy the evil in ourselves."*
