@@ -70,7 +70,11 @@ Also (this was added on 09.04) just as a note for myself
 - shift+command+c is the citation hotkey
 - shift+command+p is the print to pdf hotkey
 
-## 10.14.25 | 
+## 01.22.25 | Thoughts on Aesthetics
+
+In the end, [Saito's _Everyday Aesthetics_](https://github.com/mouseandthebillionaire/planetVelocityMap/blob/main/Texts.md#saito-y-everyday-aesthetics-2007) seeks to create some new rules around aesthetic evaluation of objects, particularly (obviously) those in everyday life. Thus, things like, green values, ambience, and moral values become important. While not directly helpful to contemplative play aesthetics, it does provide an example for how to move forward. Is there a way to establish some properties of contemplative play aesthetics? And maybe this is not the way of thinking about it for the final paper, but a way to start laying down the ideas. If we take the four categories of player, plaything, playspace, and playtime, is there a particular aesthetic value that can be used there? In the proposal I am using the lenses themselves as the aesthetic, but I think it makes more sense to think about how those lenses engender specific 'attitudes' or 'properties' (read: aesthetics) For instance, I'm already thinking "player" is a great space to talk about [Nguyen's concept of _agency_]. So we get a contemplative/play aesthetic of agency, which feels good? There are contemplative experiences that can happen where you have no agency (film, painting, literature), but play is unique in that regard? What then might the other three be? Plaything = interaction? Playspace = imagination? Playtime = ... time? I should maybe first try and cull together some essential aspects of the contemplative stance, and see what might apply to play. At the very least, an organizing principal while I write and make these things.
+
+Also, I'm on to a quick readthrough of [The Aesthetics of Everyday Life](https://cup.columbia.edu/book/the-aesthetics-of-everyday-life/9780231135023/) to see if anything else jumps out at me.
 
 
 ---
