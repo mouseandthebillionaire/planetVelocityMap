@@ -77,7 +77,7 @@ _"'Leisure time' lacks both intensity of life and contemplation. It is a time th
 
 _"We owe true happiness to the useless and purposeless, to what is intentionally convoluted, what is unproductive, indirect, exuberant, superfluous, to beautiful forms and gestures that have no use and serve no purpose."_ (5)
 
-_"Information is the active form of language. Poetry, by contrast, suspense, language as information. In poetry, language enters the mood of contemplation. It becomes inactive."_ (19)
+_"Information is the active form of language. Poetry, by contrast, suspends language as information. In poetry, language enters the mood of contemplation. It becomes inactive."_ (19)
 
 ## Fullerton, T. & Farber, M. _The Well-Read Game_, 2025
 
