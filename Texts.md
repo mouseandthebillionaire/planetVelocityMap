@@ -113,6 +113,10 @@ _"Eventually we come to a point where the distinct strengths of different arts c
 
 41 and 40 to do a good job here arguing not only that we can learn from other art forms and apply them to the study at hand (namely games/play), but also 42 in particular points to an argument that games might _be_ that emergent new art that synthesizes all other art forms into a truly monumental art. A bold statement, perhaps, but something that could be used in the study.
 
+## Last, N. *Across the Universe: The Past, Present, and Future of the Crossword Puzzle*, 2025
+
+Chapter 4 "A Familiar Form of Madness" holds some good ideas. Specifically Last's thoughts on ritual. He references both Nguyen's *Games: Agency as Art* and Simon Schefler's essay "[The Normativity of Tradition](https://philosophy.northwestern.edu/community/nustep/09/papers/Scheffler.pdf)." I should probably give the Shefler essay a read (and will) but this quote already sticks out: "rituals and traditions are one method of domesticating time, 'enabl\[ing] us to feel, as we engage in the routine activity, that we are making contact with other stages of our lives.'" Han also (obviously) has something to say about rituals, and this might end up being a good line of inquiry (or at least a way in), particularly when we talk about the 'magic circle' and or 'playthings' concepts.
+
 ## Nguyen, C. *Games: Agency as Art*, 2020
 
 Nguyen's argument that _agency_ is one of the core aesthetics of games fits nicely in my chapter on Player. I had been thinking about performance as the key thing here, but maybe the agency within that performance is more important. Additionally on page 19, he speaks about the artificiality of games, which could work with the chapter on playspace:
