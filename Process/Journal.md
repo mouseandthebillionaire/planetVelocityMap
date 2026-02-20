@@ -103,6 +103,20 @@ _"We owe true happiness to the useless and purposeless, to what is intentionally
 I will continue to ponder this.
 
 
+## 02.20.26 | Mappings First Pass
+
+Thinking through what "mechanics for contemplation," might be coming out of these four 'areas.' This is based on both ideas from the readings, and the foci of the projects thus far.
+
+* Players (Attunement) - Designers can invite attunement. Through their agency (Nguyen) the players can enact a more attuned stance, shifting their focus from mastery/conquest to receptive, sustained, relational attention (Oliveros/Cardiff).
+
+* Playthings (Enstrangement) - Designers can make the object/interface more 'enstranged' (Shlovsky). These objects resist automatic use. They resist flow. Perception is re-awakened through friction (Khaled).  
+
+* Playgrounds (Allusivity) - Designers can create more 'allusive' (Seerveld) playspaces/magic circles (Huizinga, if we must). These spaces suggest rather than declare - with atmospheric cues, symbolic textures, and indirect meaning (as in contemplative Architecture).  
+
+* Playtime (Ritualization) - Designers can ritualize time, focusing on depth rather than productive clock-time (Han). Relying on foreground/background-shifting (Eno) as well as repetition, returning, and ceremonious intervals (Vesper5/Ritual of the Moon).  
+
+
+
 ---
 ## Notes: 
 

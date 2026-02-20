@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Texts.md",
+                "file": "Process/Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Texts"
+              "title": "Journal"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Texts.md",
+                "file": "Process/Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Texts"
+              "title": "Backlinks for Journal"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "d09f4e9509ed2aa4",
   "lastOpenFiles": [
-    "Process/Conversations.md",
     "Texts.md",
+    "Process/Conversations.md",
     "Process/Journal.md",
     "README.md",
     "Proposal/README.md",
