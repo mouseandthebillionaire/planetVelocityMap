@@ -6,7 +6,7 @@ A collection of essays, books, articles, games, music, and artworks referenced d
 
 ![Carl Andre - Sculptures](https://cdn.britannica.com/73/181273-050-6363B868/exhibition-DIA-Beacon-Carl-Andre-NY-work-March-2015.jpg)
 
-*"My idea of a iece of sculpture is a road [...] That is, a road doesn't reveal itself at any particular point or from any particular point. Roads appear and disappear .... We don't have a single point of view for a road at all, except a moving one, moving along it."* - quoted from Solnit's *Wanderlust* who adds that "Andre's minimal sculptures, like Chinese scrolls, reveal themselves over time in response to the movement of the looker." (269)
+*"My idea of a piece of sculpture is a road [...] That is, a road doesn't reveal itself at any particular point or from any particular point. Roads appear and disappear .... We don't have a single point of view for a road at all, except a moving one, moving along it."* - quoted from Solnit's *Wanderlust* who adds that "Andre's minimal sculptures, like Chinese scrolls, reveal themselves over time in response to the movement of the looker." (269)
 
 ## Crawford, M. _The World Beyond Your Head_
 
@@ -68,7 +68,25 @@ Additionally:
 
 *"Unlike the transitional object, the smart phone is hard; it is not a digital teddy bear. Rather, it is a narcissistic, autistic object through which we feel, most of all, ourselves. It thus also destroys empathy. We use the smart phone to retreat into a narcissistic sphere in which we are protected against the imponderable pertaining to the other. […] We communicate so compulsively so excessively, because we are lonely and empty. But hypercommunication is not fulfilling. Because it lacks the presence of the other, it only deepen the loneliness."* (28)
 
+## Han, B. *The Scent of Time,* 2017
 
+_Note: Went backwards on this one a bit, starting at the final chapter "Vita Contemplativa" because I thought it might contain a succinct early description of his ideas that would later become the full book (which it does)
+
+_"Leisure, being Skola, is outside of work and outside of inactivity. It is a special ability and requires a specific education. It is not a practice of 'relaxation' or 'switching off.' Thinking, as theorein, as the contemplative consideration of truth, is based on leisure."_ (87)
+
+_"'relaxation' and 'switching off,' do not constitute a counter balance to work. They are integrated into the work process, in the sense that the primarily serve the purpose of reestablishing the ability to work"_ (92)
+
+_"As far as the attitude to consumption is concerned, 'slow food' does not essentially differ from 'fast food.' Things are consumed – no more, no less. A reduction in speed does not by itself transform the being of things."_ (93)
+
+This is an important distinction, perhaps. In which the slowness of something that does not necessarily make it better. Or, more importantly, that the reduction in speed is not the main factor, but there's a depth that comes from something else. Han expounds on this further in _Vita Contemplativa_, writing about the 'ceremonious innactivity.' An active innactivity that has meaning in it's uselessness. 
+
+_"According to Aristotle, the vita contemplativa is divine because it does not suffer any compulsion and it's free from any interest."_ (97)
+
+This 'free from any interest' continues to be an important distinction. Free from any interest being more crucial to contemplation that doing something slowly, than 'centering' oneself. 
+
+There is _plenty_ here to argue for slowness and/or stoppage. But I also appreciate his reliance on 'hesitation.' A hesitation can be just a simple moment. But more importantly it comes from a willingness to be observant, hoping and being open to perceiving some change.
+
+One crucial thing about this chapter is the balance between the active life and the contemplative life. That one feeds the other. Especially in games when there are these active moments, we can build in _other_, deeper, contemplative moments that can be more powerful, more successful than if the whole game itself was contemplative, perhaps. This is definitely something to explore.
 ## Han, B. _Vita Contemplativa_, 2023
 
 _"We are losing a sense for the kind of inactivity that is not an incapability, not a refusal, not just the absence of activity but a capacity in itself."_ (1)
@@ -116,6 +134,10 @@ _"Eventually we come to a point where the distinct strengths of different arts c
 ## Last, N. *Across the Universe: The Past, Present, and Future of the Crossword Puzzle*, 2025
 
 Chapter 4 "A Familiar Form of Madness" holds some good ideas. Specifically Last's thoughts on ritual. He references both Nguyen's *Games: Agency as Art* and Simon Schefler's essay "[The Normativity of Tradition](https://philosophy.northwestern.edu/community/nustep/09/papers/Scheffler.pdf)." I should probably give the Shefler essay a read (and will) but this quote already sticks out: "rituals and traditions are one method of domesticating time, 'enabl\[ing] us to feel, as we engage in the routine activity, that we are making contact with other stages of our lives.'" Han also (obviously) has something to say about rituals, and this might end up being a good line of inquiry (or at least a way in), particularly when we talk about the 'magic circle' and or 'playthings' concepts.
+
+## Navarro-Remesal, V. *Zen and Slow Games*, 2026
+
+Will eventually do a more thorough document
 
 ## Nguyen, C. *Games: Agency as Art*, 2020
 
