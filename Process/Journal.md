@@ -115,6 +115,16 @@ Thinking through what "mechanics for contemplation," might be coming out of thes
 
 * Playtime (Ritualization) - Designers can ritualize time, focusing on depth rather than productive clock-time (Han). Relying on foreground/background-shifting (Eno) as well as repetition, returning, and ceremonious intervals (Vesper5/Ritual of the Moon).  
 
+## 03.16.26 
+
+It feels as though we are coming to the point where these ideas need to be "tested" in a more formal way. Or, if not more formal, more intentional? I have been keeping these concepts (attunement, enstrangement, allusivity, ritualization) in my mind as I design and test, but perhaps the reflection needs to be more targeted.
+
+With that in mind, I have set this week aside to experience and reflect upon the [lautir](https://github.com/mouseandthebillionaire/lautir) project. The sound aspect of this is notably missing, but even without that, how does the experience feel? How does the notion of "ritualization" play into it? Having successfully implemented the calendar reminder, will I actually do this every day? Does including a calendar reminder make this feel more or less special? More or less personal? 
+
+My plan is to reflect every day on this after the interaction, and have a week's worth of thoughts on Saturday.
+
+Fingers resolutely crossed.
+
 
 
 ---

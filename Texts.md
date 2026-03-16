@@ -139,6 +139,10 @@ Chapter 4 "A Familiar Form of Madness" holds some good ideas. Specifically Last'
 
 Will eventually do a more thorough document
 
+## Newell, W. _Games and Songs of American Children._, 1967
+
+_"True, child's play is a sacred mystery, at which their elders can only obtain glances by stealth through the crevice of curtains. Children will never adopt as their own tradition, the games which may be composed or remodelled professedly for their own amusement, but with the secret purpose of moral direction."_
+
 ## Nguyen, C. *Games: Agency as Art*, 2020
 
 Nguyen's argument that _agency_ is one of the core aesthetics of games fits nicely in my chapter on Player. I had been thinking about performance as the key thing here, but maybe the agency within that performance is more important. Additionally on page 19, he speaks about the artificiality of games, which could work with the chapter on playspace:
@@ -160,6 +164,23 @@ _"However, I hold that an aesthetic reaction can also be a seemingly insignifica
 _"In contrast, the absence of an equivalent, conventional agreement on medium or evidence of the artist's intention renders a non-art object "frameless" making us a creator of it as aesthetic object"_ (19)
 
 Much of Saito's arguments for the narrow thinking of the definition and application of aesthetics on to art-objects creates a really interesting argument _against_ games and play.  Games and play certainly don't fit with most of the seven characteristics that she lays out in chapter 1 (frame, engagement with the aesthetic object, privileging higher senses, the authorial identity, permissibility of modification, stable identity, and aesthetic value, and other values). You begin to see why Ebert would have had a hard time accepting games as art if you really held fast to this classification. The above quote from page 19 is a perfect example of this. It will be interesting to see how Saito expands on this narrower definition to include the everyday objects that she is claiming can also be aesthetic. Hopefully games will fit better at that point? And if not, do we rethink the classification?
+
+## Schall, J. _Far Too Easily Pleased: A Theology of Play, Contemplation, and Festivity_, 2020 (1976)
+
+_"Many aspects of theology and life can be viewed in the light of play and contemplation. Play and contemplation clearly stand over and against our work-a-day world somehow, and they bear in themselves the seeds of wonder and celebration."_ (ix)
+
+_" we must recognize that what lies beyond work is not meaninglessness, but an area of freedom and non-necessity."_ (ix)
+
+_"We insult the world by maintaining that it is not itself a wonder, and that it's tasks are not absorbing and significant."_ (7)
+
+_"Games, as I view them, are essentially "for their own sakes," as Aristotle had already said an ancient times. When you make them into medicine or theology or economics, you are already dealing with something other than games."_ (13)
+
+_"Yet, the initial spiritual attitude to all contemplation is the same – and openness, a willingness to see what is really there. \[...] Contemplator's are those who believe both in the various riches in things and the possibility of discovering something of these riches."_ (70)
+
+_"Thus, a society that loses either its capacity to play or to contemplate loses also, it's freedom, but no longer has any source that's beyond political or economic justification."_ (72)
+
+_" leisure is a receptive attitude of mind, a contemplative of attitude, and it is not only the occasion but also the capacity for steeping oneself in the whole of creation"_ (73, quoting Josef Pieper)
+
 
 ## Scheffler, S. "The Normativity of Tradition," 2009
 
@@ -200,6 +221,7 @@ This echos the quote from page 90 as well. This idea that the thing that you are
 *"There is a subtle state, most dedicated urban walkers know, a sort of basking in solitude – a dark solitude punctuated with encounters as the night sky is punctuated with stars. In the country, one solitude is geographical, and – one is altogether outside society, so solitude has a sensible, geographical explanation, and then there is a kind of communion with the non-human. In the city, one is alone because the world is made up of strangers, and to be a stranger, surrounded by strangers, to walk along silently, bearing one's secrets, and imagining those of the people one passes, is among the starkest of luxuries. This uncharted identity with its illimitable possibilities is one of the distinctive qualities of urban living, a liberatory state, for those should come to emancipate themselves from family and community expectation, to experiment with subculture and identity. It is an observer's state, cool, withdrawn, with senses sharpened, a good state for anybody who needs to reflect or create. In small doses, melancholy, alienation, and introspection are among the life's most refined pleasures."* (186)
 
 A great paragraph here that I might end up using for the NYC walk. Obviously the sentence about reflection is really helpful, but the whole section gives such a nice _feeling_ to the benefits of walking in the city. It perfectly puts words to an experience that I love.
+
 
 ## Tarighian, T.  [100 Deep Breaths](https://100-deep-breaths.com/), 2025
 
