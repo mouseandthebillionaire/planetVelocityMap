@@ -9,6 +9,7 @@ _An MDM Thesis_
 * [Related Work](Texts.md)
 
 Included Projects
+- [LAUTIR](https://github.com/mouseandthebillionaire/lautir)
 - [1307 (An Uncommon History)](https://github.com/mouseandthebillionaire/anUncommonHistory)
 - [eikon](https://github.com/mouseandthebillionaire/eikon)
 - [Instauratio Exiguus](https://github.com/mouseandthebillionaire/losFinisCDE)
