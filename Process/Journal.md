@@ -125,6 +125,17 @@ My plan is to reflect every day on this after the interaction, and have a week's
 
 Fingers resolutely crossed.
 
+## 03.23.26 | Designing for Playful Contemplation?
+
+Working and reflecting on the LAUTIR (lautir?) project this week, and there are some great steps forward, but a bigger problem is here.
+
+How do we know when contemplation is happening? We can thoughtfully design. We can set everything in place. We can go through all of the motions both as players and designers, but will that even lead to a contemplative state? Or, an even better question: is that the goal? Specifically, is that the goal of this project? My inclination is to say no. I want to explore the idea, and I think that the "mechanics for contemplation" are strong, but I feel hesitant to take a prescriptive stance. Rather, I think it is more of, this is what I have noticed about how players _might_ take a contemplative stance? [^5]
+
+But this presents an issue. The whole structure of the thesis is, "I think attunement/allusivity/enstrangement/ritual might lead to contemplation **so I made something in response**," and that just _screams_ prescription. So, how do we get around this? How do we think about it in this way without getting preachy?
+
+I think the big takeway is coming up with a final method that doesn't empirically evaluate the player's experience, but comes from the design side. The goal is to build a design language and _possible_ techniques that may support contemplative play. The contribution is the vocabulary + method (strongly leaning on _method_ since, as PJB has noted there is a possible need for more books in that vein)
+
+
 
 
 ---
@@ -137,3 +148,5 @@ Fingers resolutely crossed.
 [^3]: Note that the citation plugin uses your vault as its root location, but as you can see above, the PanDoc plugin uses it's _own_ location as its root - that one took a while to figure out...
 
 [^4]: More to come with this when I reread the book for the Related Texts section
+
+[^5]: Also, I'm a bit loathe to include player observation/interview/testimony?
