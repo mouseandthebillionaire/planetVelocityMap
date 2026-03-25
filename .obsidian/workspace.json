@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proposal/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "Journal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Journal"
+              "title": "Outline of README"
             }
           },
           {
@@ -204,16 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46b516cf22b1a423",
+  "active": "d09f4e9509ed2aa4",
   "lastOpenFiles": [
-    "Chapters/01_contemplativePlay.md",
-    "Proposal/README.md",
-    "Texts.md",
-    "Proposal/bethancourt_thesisProposal.pdf",
     "Process/Journal.md",
+    "README.md",
+    "References/@weilWaitingGod2002.md",
+    "Texts.md",
+    "Proposal/README.md",
+    "Chapters/01_contemplativePlay.md",
+    "Proposal/bethancourt_thesisProposal.pdf",
     "Process/Conversations.md",
     "Chapters",
-    "README.md",
     "Proposal/README.pdf",
     "References/@hanVitaContemplativaPraise2023.md",
     "Media/amaze1.jpeg",
