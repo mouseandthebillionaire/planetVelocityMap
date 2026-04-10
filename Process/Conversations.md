@@ -83,3 +83,34 @@ We'll talk about this today, but over the last two weeks I have reflected on (co
 I think overall I was trying to get away from "contemplative" because I didn't want to focus on the idea of it being long/slow (potentially "boring"), but maybe it's something to lean in on? Leaves the aha question for something to keep in the back of the mind (and potentially work together on?)
 
 Note: All smartness has left the building
+
+## PB: 2026-04-10 (via Obsidian)
+
+> In this thesis, I will develop and experiment within an aesthetic of ‘contemplative play,’ a play with the potential to more clearly show the nature of the world around us, and who we are within that world.
+
+That's the first line of the proposal. You will operate "within an aesthetic" which makes it sounds like it already exists for one thing. And then the idea of showing "the nature of the world" and "who we are" are big ol' swings! You continue with this idea of "freshness," that contemplative play awakens you. Is this still the correct first sentence/core statement?
+
+At coffee we discussed a more exploratory/tentative understanding of what contemplative play might be, of finding it through experimentation?
+
+> playful contemplation
+
+Is quite a different frame to "contemplative play" somehow? Quite interesting too to think about this distinction.
+
+> ceremonious inactivity
+
+Remains a great pairing of words. Do you see that as describing any/all/some of the work you've made?
+
+> From this expanded perspective we can leverage particular lenses of aesthetic engagement and how they contribute to the play as a contemplative experience
+
+The idea of going through the toolkit of game design and identifying elements that contribute to a contemplative experience. How will you know when it's a contemplative experience? You'll know it when you feel it kind of situation?
+
+> we will gain more crystallized knowledge about that potential, and develop ways to cultivate more engaging and meaningful play experiences.
+
+Does this still describe where you want to "end up" in the thesis? New ways to cultivate more engaging and meaningful play experiences - contemplation not mentioned here? How important is contemplation as an end of its own versus a stepping stone to engagement and meaning in play? Is the priority to use contemplation as a way to improve game design writ large, or is it to find out how contemplation can work in a game context, or...
+
+### Some questions?
+
+- What is the "quintessential contemplative game" existing in the world now as it stands? 
+- What were the theory-topic pairings going to be again? I see Shklovsky isn't in here for instance?
+- Is the right next thing to "simply" write a closing statement for one of your works and to see what happens?
+- If you had to write a [Kent Beck OOPSLA Abstract](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html) right now for the whole shebang, what would it be? 
