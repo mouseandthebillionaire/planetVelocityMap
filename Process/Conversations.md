@@ -114,3 +114,43 @@ Does this still describe where you want to "end up" in the thesis? New ways to c
 - What were the theory-topic pairings going to be again? I see Shklovsky isn't in here for instance?
 - Is the right next thing to "simply" write a closing statement for one of your works and to see what happens?
 - If you had to write a [Kent Beck OOPSLA Abstract](https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html) right now for the whole shebang, what would it be? 
+
+## MB: 2026.04.16 (Obsidian)
+
+Unfortunately, these questions are no less daunting after having a week to mull them over...
+
+> "the nature of the world" and "who we are" are big ol' swings! You continue with this idea of "freshness," that contemplative play awakens you. Is this still the correct first sentence/core statement?
+
+Maybe this ends up being a bit more forceful and/or boastful than it could be? I definitely think that the lens of contemplation gives you a new/better (more healthy even?) relationship with the world, but perhaps there is a better way to introduce this. I keep coming back to Han's notion (via Aristotle) that the idea is to _balance_ a life with moments of contemplation amidst moments of action. I think this is especially interesting when we think of Han's claim that our leisure time _should_ be doing that, but we have even made that time "productive." Especially when we look at the way that games seem to prioritize efficiency/achievement/etc over the freeness of actual "play." Something there for sure. This also fits in with Chimero's _What_ vs. _Why_ of design practice, which I have always liked.
+
+> \[ceremonious inactivity] Remains a great pairing of words. Do you see that as describing any/all/some of the work you've made?
+
+I think so? I think the inanity of the old stuff and (for lack of a better phrase) the un-fun lend themselves to some inactivity. Nailing down (a little) what makes something ceremonious might be worthwhile? Demystifying it a bit. There's something about lounging in a hammock that feels ceremonious to me. I have chosen to separate this time for a specific purpose. The intentionality and focus on a given inactive pursuit. This is in contrast to the 'inactivity' that comes from tiktok, instagram (and really most digital interactions) where we have less control over the situation. Less ceremony. More reaction. Watching a movie while you fold laundry vs. the ceremony of going to a theatre.
+
+> How will you know when it's a contemplative experience? You'll know it when you feel it kind of situation?
+
+I'm going to say "yes." 
+
+I think the general structure is something like. 
+- Let's think about some lenses - viewer (player), the object (plaything), space, and time. 
+- What are other art practices/fields/examples that seem to create contemplative experiences in that domain? - roughly soundwalks, performative objects, architecture, ambient media (though others will be mentioned I'm sure)
+- How can we categorize the technique/idea from these existing fields: attunement, enstrangement, allusivity, ritualization
+- Let's make and reflect on some work that thinks about those techniques/ideas
+
+More on those area + discipline + mechanic connections [here]([https://github.com/mouseandthebillionaire/planetVelocityMap/blob/main/Chapters/01_contemplativePlay.md#encouraging-contemplation](https://github.com/mouseandthebillionaire/planetVelocityMap/blob/main/README.md#mechanics-to-encourage-contemplative-play))
+
+> How important is contemplation as an end of its own versus a stepping stone to engagement and meaning in play? Is the priority to use contemplation as a way to improve game design writ large, or is it to find out how contemplation can work in a game context, or...
+
+I think there's a few ways that I can argue this. It could be, "hey this is maybe an unexplored way of interacting with technology. What happens if we think about games from this focus?" It could be "the world is stressful. Why are our games also stressful? We need an antidote to the constant vita activa so let's try to make some games that focus on vita contemplative stuff!" Or or maybe a little mix of both?
+
+>  What is the "quintessential contemplative game" existing in the world now as it stands? 
+
+I think my knee-jerk response is _Play it by Heart_, but also, I always think of much of your work as fitting in that category. Flipping gameplay around so that the player is forced to think about things differently. Creating frame-shifting moments of delight, aha, thoughtfulness, etc. In a (much) sillier way, I weirdly think that "What the Golf?" does this really well. That initial moment when you think you have it figured out and then something totally bananas happens is the best part of that game.
+
+I think that other gamey people might say something like "Journey" or "Shadow of the Colossus?" "Death Stranding" "Tetris?" "Vesper5" Again I think it hinges on what we think of as contemplative. It's not _relaxing_ or _Zen_ or even (I'm arguing) _slow_. It's also not _entirely_ about this frame-shifting idea (though that feels more exciting to talk about?) It could just be (as Han argues) the opposite state of vita activa. _Actual_ freedom from an active life. Nguyen has some interesting ideas in this regard in his new book (which I need to reflect on more and add to my Texts document)
+
+> Is the right next thing to "simply" write a closing statement for one of your works and to see what happens?
+
+I'm going to say... "yes?"
+
+The eikon project is probably at a good enough state where I can do one more cycle with it to make some final changes and re-acquaint myself with the overall ideas. That should put me in a fairly good spot to write the closing statement. I'm trying to wrap up the [1307](https://github.com/mouseandthebillionaire/1307) soundwalk for next week and the [lautir](https://github.com/mouseandthebillionaire/lautir) thing for Game Poems before we head to Nova Scotia, but I think I can get all of it done...

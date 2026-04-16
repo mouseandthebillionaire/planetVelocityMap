@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Chapters/01_contemplativePlay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01_contemplativePlay"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "Process/Conversations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal"
+              "title": "Conversations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Process/Conversations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Conversations"
             }
           },
           {
@@ -203,16 +204,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d09f4e9509ed2aa4",
+  "active": "46b516cf22b1a423",
   "lastOpenFiles": [
     "Process/Journal.md",
+    "Process/Conversations.md",
+    "Chapters/01_contemplativePlay.md",
     "README.md",
     "References/@weilWaitingGod2002.md",
     "Texts.md",
     "Proposal/README.md",
-    "Chapters/01_contemplativePlay.md",
     "Proposal/bethancourt_thesisProposal.pdf",
-    "Process/Conversations.md",
     "Chapters",
     "Proposal/README.pdf",
     "References/@hanVitaContemplativaPraise2023.md",
