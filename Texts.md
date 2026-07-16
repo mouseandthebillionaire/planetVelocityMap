@@ -135,6 +135,38 @@ _"Eventually we come to a point where the distinct strengths of different arts c
 
 Chapter 4 "A Familiar Form of Madness" holds some good ideas. Specifically Last's thoughts on ritual. He references both Nguyen's *Games: Agency as Art* and Simon Schefler's essay "[The Normativity of Tradition](https://philosophy.northwestern.edu/community/nustep/09/papers/Scheffler.pdf)." I should probably give the Shefler essay a read (and will) but this quote already sticks out: "rituals and traditions are one method of domesticating time, 'enabl\[ing] us to feel, as we engage in the routine activity, that we are making contact with other stages of our lives.'" Han also (obviously) has something to say about rituals, and this might end up being a good line of inquiry (or at least a way in), particularly when we talk about the 'magic circle' and or 'playthings' concepts.
 
+## Merton, T. _Contemplation in a World of Action_
+
+While mainly being about reformation of the monastic tradition, there are a couple interesting quotes here that could be useful. I'm not quite sure what Merton would think about me using this text for the purpose of _play_ and and contemplation, but he was of a different time.
+
+*"The "answers" that modern man seeks and needs are not those of the need verbal formula with a logically constructed system. There is in his very being a profound distrust of logic and of system. His needs and his hope are in a realm of paradox were strict logic cannot reach because it is the realm of the personal and the unique. The very meaning of personal identity is lost if we supposed that it conforms to precedent and to the general type. The question of identity and of meaning in our personal life can never be adequately answered by logic but only by life itself. Yet we live in a world where words, formulas, official answers and a seemingly logical system may pretend to decide everything for us in advance."* (40-41)
+
+*"Critics have also noted the American fear of loneliness. Individual identity is sacrificed in an eff ort to stay close to the herd, to be no diff erent from others in thought, feeling, or action. To stand aside, to be alone, is to assert a personal identity which refuses to be submerged. Society will not tolerate this. Innumerable social features are designed to prevent it: stadiums to accommodate thousands at sport events, open doors of private rooms and offices, club cars on trains, shared room in colleges and boarding houses, countless clubs, organizations, associations, societies, canned music (for silence is unbearable) piped into hospitals, railway cars, and supermarkets. Yet one of the surest signs of the resolution of the identity crisis is an increased capacity for being alone, for being responsible for oneself. The gradual process that will end in perfect identity involves an awareness of the fact that there are decisions in life and aspects of lif e's struggle that a person must face alone. For as a young person becomes clearer in his own mind of his role in society and of his personal identity, he is likely also to become more aware of how he differs from others. Gradually he becomes conscious of his isolation from others, not because others are pulling away, but because the fullness of personal identity cannot be achieved without some degree of aloneness. Here there is a paradox: the more richly a person lives, the more lonely, in a sense, he becomes. And as a person, in this formative isolation, becomes more able to appreciate the moods and feelings*
+*of others, he also becomes more able to have meaningful relationships with them.*
+*But the unwritten code of our national culture prohibits aloneness, and this is the second causative factor for a prolonged identity crisis: the obstacles our society imposes to prevent personal reflection." - Barry McLaughlin, S.J., Nature, Grace and Religious Development, pp. 46-47.* (42-43)
+
+*"Togetherness is not community."* (44)
+
+ *"When I speak of the contemplative life I do not mean the institutional cloistered life, the organized life of prayer....I am talking about a special dimension of inner discipline and experience, a certain integrity and fullness of personal development which are not compatible with a purely external, alienated, busy-busy existence."* (154)
+
+*"Without a more profound human understanding derived from exploration of the inner ground of human existence, love will tend to be superficial and deceptive."* (154)
+
+On page 157, Merton goes into a discussion of immanentism, which, while not being particular useful for this study, I find really interesting. Or at least, I can't imagine actually using it in the writing, but holds some deeper truth. Roughly the idea is that in immanentism God is intimately present in the very ground of our being while, still being infinitely transcendent. From this it feels natural that contemplation gets us to know more about ourselves, more about the universe, more about some hidden, underlying truth.
+
+*"Whether from the point of view of psychology, ethics, art, religion, or simply in the development of man's deepest capacities, the contemplative experience is in touch with what is most basic in human existence.... But it is not necessary that this drive for spiritual discovery be socially organized: it can spring into existence spontaneously outside the cloister or hermitage, even under the most unf avorable conditions. For the contemplative life is not merely a matter of escaping the world, singing psalms, or mastering traditional techniques of meditation: it is also and above all a personal charism."* (162)
+
+*"In a certain sense the duty to bear witness to contemplative values and to a higher experience is a matter of universal concern, common not only to the Cistercian monk but to the Zen Buddhist and the student of Yoga."* (167)
+
+*"The contemplative life isn't something objective that is "there" and to which, after fumbling around, you finally gain access. The contemplative life is a dimension of our subjective existence."* (224)
+
+*"Art comes to mind here. By "art" I don't mean fiddling around, please! There is always a temptation to diddle around in the contemplative life, making itsy-bitsy statues. If this is wanted as a legitimate recreation, as a relaxation, or as occupational therapy, let's be honest*
+*and call it occupational therapy.*
+*Yet art in the contemplative lif e can really open up new capacities and new areas in the person of the contemplative. Everything depends on how it is used. The real key is guidance and direction and selectivity. The contemplative life is extremely selective. One of the things that has ruined the contemplative life has been the leveling process which has eliminated this selective quality, this capacity for creative personal judgment in special cases. The contemplative life has become a kind of assembly line on which everybody is put together*
+*according to one pattern. This is utterly deadly, and of course it kills selective judgment."* (226)
+
+*"The training of the imagination implies a certain freedom, and this freedom implies a certain capacity to choose and to find its own appropriate nourishment. Thus in the interior life there should be moments of relaxation, freedom and "browsing." Perhaps the best way to do this is in the midst of nature, but also in literature. Perhaps also a certain amount of art is necessary, and music. Of course we have to remember our time is limited and first things have to come*
+*first. We can't spend too much time just listening to music."* (230)
+
 ## Navarro-Remesal, V. *Zen and Slow Games*, 2026
 
 Will eventually do a more thorough document

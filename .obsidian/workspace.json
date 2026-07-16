@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/Conversations.md",
+                "file": "Texts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conversations"
+              "title": "Texts"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/Conversations.md",
+                "file": "Texts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conversations"
+              "title": "Outline of Texts"
             }
           },
           {
@@ -172,8 +172,8 @@
             "state": {
               "type": "annotations-outline",
               "state": {},
-              "icon": "message-square",
-              "title": "Enhanced Annotations"
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
             }
           },
           {
@@ -182,8 +182,8 @@
             "state": {
               "type": "annotations-outline",
               "state": {},
-              "icon": "message-square",
-              "title": "Enhanced Annotations"
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "46b516cf22b1a423",
   "lastOpenFiles": [
-    "Process/Journal.md",
     "Process/Conversations.md",
+    "Process/Journal.md",
     "Chapters/01_contemplativePlay.md",
     "README.md",
     "References/@weilWaitingGod2002.md",
