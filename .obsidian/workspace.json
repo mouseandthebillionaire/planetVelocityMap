@@ -172,8 +172,8 @@
             "state": {
               "type": "annotations-outline",
               "state": {},
-              "icon": "message-square",
-              "title": "Enhanced Annotations"
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
             }
           },
           {
@@ -182,8 +182,8 @@
             "state": {
               "type": "annotations-outline",
               "state": {},
-              "icon": "message-square",
-              "title": "Enhanced Annotations"
+              "icon": "lucide-ghost",
+              "title": "annotations-outline"
             }
           }
         ],
