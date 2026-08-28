@@ -131,6 +131,19 @@ _"Eventually we come to a point where the distinct strengths of different arts c
 
 41 and 40 to do a good job here arguing not only that we can learn from other art forms and apply them to the study at hand (namely games/play), but also 42 in particular points to an argument that games might _be_ that emergent new art that synthesizes all other art forms into a truly monumental art. A bold statement, perhaps, but something that could be used in the study.
 
+
+## King, R. ["The Examined Life in the Age of Optimism"](https://journal.nyphilosophy.org/p/the-examined-life-in-the-age-of-optimisation), 2026
+
+_"At the centre of nearly all these old exercises sat one discipline, the training of attention, and it is attention above all that the optimised life ruins. The Stoics had a word, _prosochē_, for a continuous mindfulness of what one was doing and becoming, a steady presence to the moment one was actually in. It is the opposite of the divided, metricised, faintly anxious attention most of us now carry through our days, one eye forever on the screen that will tell us how we are performing. You cannot examine a life you are not present to, and you cannot be present to a life you are perpetually trying to improve, because the improving self is always half-turned toward a future in which things will be better arranged. The harder we work at optimising our experience, the less of it we are ever actually here for."_
+
+This feels like an especially helpful term. Can we apply this to contemplation? Is my version of "contemplation" more of a prosochē than Merton's (or Han's even)?
+
+The website viastoica.com further explains "People who meet the term for the first time often assume it means the same thing as mindfulness. They picture a calm noticing of the present moment. Prosochoē is not that. It sits closer to the alertness of someone standing watch than to the ease of someone relaxing into now. The Stoics built an entire ethical system on keeping that watch active. The same distinction separates prosochoē from propatheia, the involuntary first flinch or startle Chrysippus described. Propatheia happens to you before judgment engages. Prosochoē is the trained readiness that determines what happens next."
+
+Oh ho! So am I actually trying to design for more of a propatheia? Is propatheia the Whaaat!? of philosophy?
+
+Ah, no. Not quite: "The terms propatheia and [pathos](https://viastoica.com/what-is-pathos/) sit on either side of the single most important moment in Stoic psychology: the act of assent. Propatheia is raw sensation, the flinch, the jolt, the sudden heaviness, arriving before any judgment has formed. Pathos is what results when the mind agrees with that sensation and adds a verdict to it."
+
 ## Last, N. *Across the Universe: The Past, Present, and Future of the Crossword Puzzle*, 2025
 
 Chapter 4 "A Familiar Form of Madness" holds some good ideas. Specifically Last's thoughts on ritual. He references both Nguyen's *Games: Agency as Art* and Simon Schefler's essay "[The Normativity of Tradition](https://philosophy.northwestern.edu/community/nustep/09/papers/Scheffler.pdf)." I should probably give the Shefler essay a read (and will) but this quote already sticks out: "rituals and traditions are one method of domesticating time, 'enabl\[ing] us to feel, as we engage in the routine activity, that we are making contact with other stages of our lives.'" Han also (obviously) has something to say about rituals, and this might end up being a good line of inquiry (or at least a way in), particularly when we talk about the 'magic circle' and or 'playthings' concepts.
