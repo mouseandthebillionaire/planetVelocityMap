@@ -135,7 +135,33 @@ But this presents an issue. The whole structure of the thesis is, "I think attun
 
 I think the big takeway is coming up with a final method that doesn't empirically evaluate the player's experience, but comes from the design side. The goal is to build a design language and _possible_ techniques that may support contemplative play. The contribution is the vocabulary + method (strongly leaning on _method_ since, as PJB has noted there is a possible need for more books in that vein)
 
+## 10.21.26 | Ostranenie (Enstrangement)
 
+Mostly been working in other repositories over the last few months, but I thought it would be useful to pop over here as I'm starting to think of a few big picture issues for the final thesis. 
+
+While doing the [LTHC Analysis](https://github.com/mouseandthebillionaire/_lestTenHorizonsCry/blob/main/_Analysis/AnalysisJournal.md) and trying to figure out where it could be slotted (Playthings) I started thinking again about Shklovsky's concept of Ostranenie (Enstrangement). Reading Berlina's ["'Let Us Return _Ostranenie_ to Its Functional Role': On Some Lesser-Known Writings of Viktor Shklovskye](https://read.dukeupress.edu/common-knowledge/article-abstract/24/1/8/133219/Let-Us-Return-Ostranenie-to-Its-Functional-Role-On) raises some very interesting points about Shklovsky's understanding of enstrangement in the later years of his career. She points out that many of his ideas are conflicting, but that this "makes matters even more complex but also, arguably, more productive." (8) 
+
+Additional texts are also mentioned that I plan on spending the next few days reading as I work through the LTHC analysis. Hopefully they will inform some ideas and solidify what I am trying to do with these projects as playthings. 
+
+* Estrangement as a **Lifestyle**: Shklovsky and Brodsky - Svetlana Boym
+* Fragments - Novalis
+* Eighteenth-Century Fiction and the Reinvention of Wonder - Sarah Tindal Kareem
+* Sklovskij's Concept of Ostranenie and Aristotle's Admiratio - Peter Rossbacher
+
+
+It would be nice if I could find also some more pedestrian texts as a compliment. These are all fine and good, but probably far too philosophic for the actual stated goals of the thesis. Excited to delve into some of these, but I fear I will be getting a tad too in the weeds for anyone's good.
+
+Bottom line - I need to get a good handle on a proper definition/understanding of enstrangement and how these projects are pushing/utilizing those ideas for contemplative ends. 
+
+## 10.22.26 | Enstrangement in Games
+
+Well shoot; look what I found today
+
+* [Familiarity as Estrangement in the Interface Sim: s.p.l.i.t. and the Expert Problem](https://electronicbookreview.com/publications/familiarity-as-estrangement/) - Jack Drabenstadt
+* Deepening Gameplay Experiences through Estrangement - Jaakko Stenros et al
+* [Art devices - play devices: immersion vs. estrangement in art-games](https://revistas.ulusofona.pt/index.php/ijgsi/article/view/10596) - Maria Mandea
+
+PB's time chapter from _The Stuff Games Are Made Of_ also came up in my search which brings up the point that while I am looking specifically at "things" being enstranged, we can obviously enstrange other elements as well (time, space, the other, etc) Could be worth bringing up in the chapter perhaps?
 
 
 ---
