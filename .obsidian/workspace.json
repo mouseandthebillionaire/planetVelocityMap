@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d09f4e9509ed2aa4",
+            "id": "0b14a80d05f4151c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapters/01_contemplativePlay.md",
+                "file": "Proposal/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_contemplativePlay"
+              "title": "README"
             }
           },
           {
-            "id": "46b516cf22b1a423",
+            "id": "4e153a4a4ad34b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "ChapterOutlines/Playtime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal"
+              "title": "Playtime"
             }
           }
         ],
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Process/Journal.md",
+                "file": "ChapterOutlines/Playtime.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,15 +206,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46b516cf22b1a423",
+  "active": "4e153a4a4ad34b0e",
   "lastOpenFiles": [
+    "Proposal/README.md",
+    "ChapterOutlines/Playtime.md",
+    "README.md",
     "Chapters/01_contemplativePlay.md",
+    "ChapterOutlines",
+    "Process/Journal.md",
     "Texts.md",
     "Process/Conversations.md",
-    "Process/Journal.md",
-    "README.md",
     "References/@weilWaitingGod2002.md",
-    "Proposal/README.md",
     "Proposal/bethancourt_thesisProposal.pdf",
     "Chapters",
     "Proposal/README.pdf",
@@ -229,7 +231,6 @@
     "convert-comments.lua.md",
     "convert-comments.lua",
     "Proposal/README.docx",
-    "Proposal/README.odt",
     "References/References/@hanVitaContemplativaPraise2023.md",
     "Docs/References/@hanVitaContemplativaPraise2023.md",
     "Docs/Note Template.md",
