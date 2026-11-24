@@ -1,13 +1,10 @@
 # Playtime
 
-[
 ![Films & Architecture: "Play Time" | ArchDaily](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.adsttc.com%2Fmedia%2Fimages%2F51c7%2F7028%2Fb3fc%2F4bf9%2Fe400%2F00ec%2Flarge_jpg%2F26938359.jpg%3F1372024870&f=1&nofb=1&ipt=03e008943c365821b5584d95ca4d36373540f4613b58c4cf71d2ea3f1b9229fe&ipo=images)
-
-](https://www.archdaily.com/395674/films-and-architecture-play-time)
 
 There is a scene in Jacques Tati's film _Playtime_, that I have always loved. In it, Tati's Mr. Hulot has just exited a city bus and runs into an old army buddy who invites him into see his new apartment. Hulot and his friend enter the apartment building which is all concrete and glass, with large windows allowing us to see the entirety of the action within. Over the course of many drawn out minutes, Tati uses a minimum of cuts to create a slow tableau of drama, where we witness uncomfortable interactions, secret vices, and humorous juxtapositions. And because Tati filmed his movie in 70mm, when seen properly on the large screen, the building takes up our entire field of view. We are voyeurs standing outside on the street and peering in. "\[O]ur eyes dart around it to find action in the foreground, middle distance, background and half-offscreen. It is difficult sometimes to even know what the subject of a shot is." (Ebert) Through this visual scanning we notice little gags, insights, and peculiarities from the characters and the scenery itself. And as such:
 
-	_Thus although _Playtime_ is stuffed full of gags, most are disperesed quietly throughout the film, and often only on acute observation from the audience [...] Ever present, Tati's humerous moments suggest that all architectural scenes, whether in Tativille or the street outside, have such comic potential, if onlfy we should pay attention to realise this much_ (Borden 2002, 220)
+_"Thus although _Playtime_ is stuffed full of gags, most are disperesed quietly throughout the film, and often only on acute observation from the audience [...] Ever present, Tati's humerous moments suggest that all architectural scenes, whether in Tativille or the street outside, have such comic potential, if onlfy we should pay attention to realise this much."_ (Borden 2002, 220)
 
 Much has been written about Tati's use of architecture to comment on the modern world, but I think his use of time is notable here. Is is intensely purposeful. He lingers on a shot for a long time, what almost feels too long to us, and lets the action play out before us. He has characters repeat certain behaviors of movements beyond what seems reasonable. His lingering asks for patience from the audience, but that patience is rewarded with an insightful humor. It is a humor of recognition. A humor that says "ah yes, I see similar things in the world around me." 
 
