@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Playtime"
             }
+          },
+          {
+            "id": "82009a2137813c62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapters/Playtime.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Playtime"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -159,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChapterOutlines/Playtime.md",
+                "file": "Chapters/Playtime.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,15 +220,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e153a4a4ad34b0e",
+  "active": "82009a2137813c62",
   "lastOpenFiles": [
-    "Proposal/README.md",
+    "Texts.md",
+    "Chapters/Playtime.md",
     "ChapterOutlines/Playtime.md",
+    "Proposal/README.md",
     "README.md",
     "Chapters/01_contemplativePlay.md",
     "ChapterOutlines",
     "Process/Journal.md",
-    "Texts.md",
     "Process/Conversations.md",
     "References/@weilWaitingGod2002.md",
     "Proposal/bethancourt_thesisProposal.pdf",
